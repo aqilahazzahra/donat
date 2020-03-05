@@ -323,6 +323,8 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/hgtv.png" group-title="Lifestyle",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VkL9t77N/travel4.png" group-title="Lifestyle",TRAVEL
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/foodie.png" group-title="Lifestyle",Foodie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/insight.png" group-title="Lifestyle",Insight
