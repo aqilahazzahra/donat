@@ -4,7 +4,7 @@ http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #https://doofree88.com/streaming/hd-fxeng_480/index.m3u8
 #https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vBwhLYkt/sony444y.png" group-title="Movies",sSONY MOV
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/834.m3u8
+#http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/834.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gkdcTmjv/JGO4.png" group-title="Movies",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="Movies",HBO ext
