@@ -377,7 +377,9 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/discch.png" group-title="Knowledge",Discovery Channel
 
-http://103.146.185.235:8888/live/Kinoz/Mantulok/66.ts
+http://203.153.218.28:9981/stream/channelid/1151931232
+
+#http://103.146.185.235:8888/live/Kinoz/Mantulok/66.ts
 
 #http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/67
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/ci.png" group-title="Knowledge",Crime Investigation
