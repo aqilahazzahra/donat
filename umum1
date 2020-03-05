@@ -68,6 +68,9 @@ http://139.99.83.97:25461/live/wibowo285/12345678/1533.ts?token=QhBYV0dYRg4TXFYD
 
 #EXTINF:-1 tvg-ID="" tvg-name="Galaxy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Galaxy_TV.png" group-title="Movies",Galaxy
 
+http://139.99.83.97:25461/live/wibowo285/12345678/1698.ts?token=QhBYV0dYRg4TDVBRBQJSUVcBBQVeXAtSXVcAAQRVVlQBAwkFVwFSDAIaSBAQEEJXVQhvWgIbCVQPDQgdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoAAQZYBlJOG0JZUhYKRgMAD1YQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDl5EDVpNQFtbRERVRAEWCxpRB1dGHBBXCkVdEktKRwMWeXVDGkMHQUZVWEdZC1oTAkZGEEYcEF0Wb0EDSkcXXFVdVBMUW0AJEBwUWVEca1JXClwGB0RbWwtDEVwbAkcVFl1eD18VDUttQF9QEl4WCQxXBkEZ
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="Zing HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" group-title="Movies",Zing HD
 
 #EXTINF:-1 tvg-ID="" tvg-name="Zee Bioskop HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/Zee%20Bioskop%20new%20logo%20About%20us%20-%20Copy.png" group-title="Movies",Zee Bioskop HD
@@ -86,6 +89,9 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22
 #http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/52
 #https://doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fRhQ2Kbk/foxcr4.png" group-title="Movies",FOX Crime HD
+http://111.221.44.70:25461/live/wibowo285/12345678/2257.ts?token=QhBYV0dYRg4TAQAEUFUFU1dQBAcHCVVTXwwIUgdXWVIBVgkOUgEHUQEaSBAQEEJXVQhvWgIbCVcLAQcdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoAAQZYBFlOG0JZUhYKRgUFCVYKQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGA1JUAxAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpSA1JcEk8=
+
+
 #http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/54
 https://doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fRhQ2Kbk/foxcr4.png" group-title="Movies",FOX Action Movie
