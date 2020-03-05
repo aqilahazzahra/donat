@@ -33,15 +33,15 @@ http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&
 http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/617.ts
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="SPORTS",BEIN SPORT 1 ID
-http://streamku.live:8888/live/masmuto/masmuto20/515.ts
+#http://streamku.live:8888/live/masmuto/masmuto20/515.ts
 #https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORTS",BEIN SPORT 2 ID
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
-http://streamku.live:8888/live/masmuto/masmuto20/516.ts
+#http://streamku.live:8888/live/masmuto/masmuto20/516.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxZPkMW/b1pl.png" group-title="SPORTS",BEIN 1 PREMIER LEAGUE
-https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
+#https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2fsSbRK/b2pl.png" group-title="SPORTS",BEIN 2 PREMIER LEAGUE
-https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
+#https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX Sport 1
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/30.ts
@@ -63,38 +63,38 @@ http://skdn.redi-vo.com/iptv/ch1284?code=103131497823984&key=11345
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52GnyqmG/f14.png" group-title="SPORTS",FORMULA 1 ESP
 http://skdn.redi-vo.com/iptv/ch1285?code=103131497823984&key=47444
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1
-http://103.28.148.205:25461/wibowo285/12345678/2407?token=QhBYV0dYRg4TWlFXVlEIU1UHAwBVXAdUAAEJCFICWVQMVgADUgJRAlQaSBAQEEJXVQhvWgIbCVcNBAcdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoHAwBZAFhOG0JZUhYKRgUAClcAQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGA1dcBRAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpSBFVcEk8=
+#http://103.28.148.205:25461/wibowo285/12345678/2407?token=QhBYV0dYRg4TWlFXVlEIU1UHAwBVXAdUAAEJCFICWVQMVgADUgJRAlQaSBAQEEJXVQhvWgIbCVcNBAcdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoHAwBZAFhOG0JZUhYKRgUAClcAQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGA1dcBRAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpSBFVcEk8=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2
-http://streamku.live:8888/live/masmuto/masmuto20/505.ts
+#http://streamku.live:8888/live/masmuto/masmuto20/505.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2+
 #https://etslive-2-vidio-com.akamaized.net/exp=1582984743~acl=/hls-b/ingest_geo_6686_*/*~hmac=441b4aae2ba36bbbeb20284fbf202a9ecf85856c2193697445fc5609339bb521/hls-b/ingest_geo_6686_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXmkn4dF/NBC4.png" group-title="SPORTS",NBC SPORT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXmkn4dF/NBC4.png" group-title="SPORTS",NBCSN SPORT
 
 http://ok2.se:8000/vmqZGRlWAj/0QqZo1i0q4/170
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 1
-http://103.146.185.235:8888/live/Kinoz/Mantulok/830.ts
+#http://103.146.185.235:8888/live/Kinoz/Mantulok/830.ts
 #https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 2
-http://103.146.185.235:8888/live/Kinoz/Mantulok/829.ts
+#http://103.146.185.235:8888/live/Kinoz/Mantulok/829.ts
 #https://www.doofree88.com/streaming/epl-x2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 3
-http://103.146.185.235:8888/live/Kinoz/Mantulok/828.ts
+#http://103.146.185.235:8888/live/Kinoz/Mantulok/828.ts
 #https://www.doofree88.com/streaming/epl-x3_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 4
-http://103.146.185.235:8888/live/Kinoz/Mantulok/827.ts
+#http://103.146.185.235:8888/live/Kinoz/Mantulok/827.ts
 #https://www.doofree88.com/streaming/epl-x4_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 5
-http://103.146.185.235:8888/live/Kinoz/Mantulok/826.ts
+#http://103.146.185.235:8888/live/Kinoz/Mantulok/826.ts
 #https://www.doofree88.com/streaming/epl-x5_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2RjGvWv/sk1.png" group-title="SPORTS",SKY NET Sports 1
-https://www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
+#https://www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2RjGvWv/sk1.png" group-title="SPORTS",SKY NET Sports 2
-https://www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
+#https://www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prVfRcQq/usee44.png" group-title="SPORTS", USEE SPORTS
 #https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/useesports/playlist.m3u8
@@ -104,7 +104,7 @@ https://www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
 http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx5ktLLJ/rmc4.png" group-title="SPORTS", RMC 5 HD
 
-http://163.172.42.249:25461/live/rmcsport5/2350888447/66.ts?token=ThYLAktYEAsbVlYPBQBTAlUJBlcDBgJRBAFRVAIJVAUFUFJbDgJWVQoVHxUQQxMEVVQ6DFEXDFRUGEYWQl1HaFxQQVkaBRAdG0NaWgYVW1ABAVZUBQEDUFUYRhNYXBcNFwVVWg0SHhNcT0dSEVkADWtdABNcVlNAWFoRD10UF1hbawcGVVFcVRsNEQdBG0MIR0lHX1tAWg5OFgYKRUpUQ1AWWUENAAcBGxsRVAxCDxVGQEdfF3xyQE4WARtFXVtEXFsNQQISRkIbGxFeEGgTBEdNFwBUWFMQQA5GUhMUF1pUTDwAV15cVFpDWlgNRENbFglHSRdYWQwLQAsRbkhcUxcOQVEKBgUFG0o=
+#http://163.172.42.249:25461/live/rmcsport5/2350888447/66.ts?token=ThYLAktYEAsbVlYPBQBTAlUJBlcDBgJRBAFRVAIJVAUFUFJbDgJWVQoVHxUQQxMEVVQ6DFEXDFRUGEYWQl1HaFxQQVkaBRAdG0NaWgYVW1ABAVZUBQEDUFUYRhNYXBcNFwVVWg0SHhNcT0dSEVkADWtdABNcVlNAWFoRD10UF1hbawcGVVFcVRsNEQdBG0MIR0lHX1tAWg5OFgYKRUpUQ1AWWUENAAcBGxsRVAxCDxVGQEdfF3xyQE4WARtFXVtEXFsNQQISRkIbGxFeEGgTBEdNFwBUWFMQQA5GUhMUF1pUTDwAV15cVFpDWlgNRENbFglHSRdYWQwLQAsRbkhcUxcOQVEKBgUFG0o=
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXmkn4dF/NBC4.png" group-title="SPORTS",NBCSN HD
@@ -112,17 +112,22 @@ http://163.172.42.249:25461/live/rmcsport5/2350888447/66.ts?token=ThYLAktYEAsbVl
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/n9DJwvt8/eu1.jpg" group-title="SPORTS",EUROSPORT 1
+
+http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
+
 #https://www.doofree88.com/streaming/uk-eurosport_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FdqvZT8g/eu2.jpg" group-title="SPORTS",EUROSPORT 2
 #https://www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8
+
+http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4yYLhtvY/images-3.jpg" group-title="SPORTS",ESPN 2 HD
 #http://216.244.76.114:25461/live/skydbnew/bfHcm8THgk/90.m3u8?token=HhBZURFYRgkQBQBXXg5aAA8EAQUOUgMBVg4HAQIFUwBRBwIGUgQFClYQHUMVTBFcWFxoCl1HDQFWFBIXRFEUbAxWEwpAA1QRHhBFCAtdQQMJHRUTUAEVAkQJAVYAA0QfR1dJRAdCClJebVUEEFEAXBsLWRZVCRsaCVZvBlJZB10BEAsSUxJIEVtBQUNcVhZVVR0VAVARRVkSXRJYFQVUBlwQHRIBXxFdRkBIQ1waNmobHRUGQRFSVhVRXwwVDkReVkcJEk4SDUBtQFQSEkoGWFRURUEDRwcaShpdA09rBVwLXFRTFlkLXUEQC0NWGk8bVF5ZCk0KRWcWUVRADRZUC1ULARIf
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxCG4HYY/diema4.png" group-title="SPORTS",DIEMA SPORTS 2
-http://server4.xtim.tv:9090/DiemaSport2/tracks-v1a1/mono.m3u8?token=81H84NfjI3
+#http://server4.xtim.tv:9090/DiemaSport2/tracks-v1a1/mono.m3u8?token=81H84NfjI3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvrV6Jqp/arena-sport-rs-1.png" group-title="SPORTS",ARENA SPORT 1
 #http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
