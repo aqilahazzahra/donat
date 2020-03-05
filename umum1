@@ -1,6 +1,10 @@
 #extm3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8kLP4jpp/FX4.png" group-title="Movies",FX
-http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+http://139.99.68.120:8888/live/wibowo285/12345678/776.ts?token=QhBYV0dYRg4TCQIHVFVTBFVQUwtWW1FdXAABAVhSUlAAAFZUVwJXUAIaSBAQEEJXVQhvWgIbCVIOAhwTFEUEEGZbVBQOElMAAghdEE9GRFtZABIJVwwLVg0FBwNWA01ASVtUFA4SUAIHGkgQBhxEV0YLUV85XVYTUFdVE1tYFA5VHhJZWm8AUVxZClZBXhICFkkSWhVJEV9XQVxdTRQDC01AUUJREl4WAwpdB0FIElFbEF5HFEARXxt9dBNNFAQaTVdeRV1fChYLGhBBQUgSW0c6QlYVTUEAWFlVQ0MMQ1IbHhJbVUg7V15WClcAEFldWhYSCUQIEUkbWV9fCEIOEGZCWVIWCkYHAApdEB4=
+
+
+
+#http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #https://doofree88.com/streaming/hd-fxeng_480/index.m3u8
 #https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vBwhLYkt/sony444y.png" group-title="Movies",sSONY MOV
@@ -24,7 +28,11 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E5
 
 #ttps://doofree88.com/streaming/hd-xzyte_720/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="Movies",HBO Family
-https://doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
+
+http://139.99.71.164:25461/live/wibowo285/12345678/592.ts?token=QhBYV0dYRg4TCl0DU1QEBgUGBAZXWwEHC1ECBVEFBFEIVwEBAVUHBVUaSBAQEEJXVQhvWgIbCVAABhwTFEUEEGZbVBQOElMAAghdEE9GRFtZABIJVwwLVg0FBwJTAk1ASVtUFA4SVwUED1YQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDl5EDVpNQFtbRERVRAEWCxpRAFJWEh4WBl9GCE1BHBsOEnglFE1AXEpEU1pDDVtfGl4QFxcSHhYMQ2wUXEARS1FRXAREQ1gbAhIaFl0FTG5bC1wNAVNGXQpeQEQDEVQbGBJcDlgIFlZAb0ZdVEYOEwlTBVtGTQ==
+
+
+#https://doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Red By HBO" tvg-logo="https://macan.live/img/red_hbo.png" group-title="Movies",Red By HBO
 /689.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/632VgCH1/MOV4.png" group-title="Movies",MOVIES NOW
@@ -49,8 +57,13 @@ https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2SYD5whh/zb4.png" group-title="Movies",ZeeBioskop
 http://45.126.83.51/qwr9ew/s/s32/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/28wLnwVW/warnertv4.png" group-title="Movies",Warner TV HD
+
+http://139.99.83.97:25461/live/wibowo285/12345678/1533.ts?token=QhBYV0dYRg4TXFYDVFZVAFBSCAQDDwJVDQ0DAVJVUlMPAAQOBQlWAAUaSBAQEEJXVQhvWgIbCVQMBwMdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoAAQZSBVVOG0JZUhYKRgUDDVMLQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGBFBREh4WBl9GCE1BHBsOEnglFE1AXEpEU1pDDVtfGl4QFxcSHhYMQ2wUXEARS1FRXAREQ1gbAhIaFl0FTG5bC1wNAVNGXQpeQEQDEVQbGBJcDlgIFlZAb0ZdVEYOEwBQBlFGTQ==
+
+
 #http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/76
-https://doofree88.com/streaming/hd-warnertv_720/index.m3u8
+
+#https://doofree88.com/streaming/hd-warnertv_720/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IMC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies",IMC
 
 #EXTINF:-1 tvg-ID="" tvg-name="Galaxy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Galaxy_TV.png" group-title="Movies",Galaxy
@@ -106,8 +119,12 @@ https://doofree88.com/streaming/sd-celestial_480/index.m3u8
 /539.ts
 #http://msl.tvbayoplus.com:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/7L5J5QdP/fox4.png" group-title="Entertainment",FOX HD
+http://139.99.83.97:25461/live/wibowo285/12345678/95.ts?token=QhBYV0dYRg4TAAFXWwUAVwFXB1dUDwYDDVFWB1NUU1daUFFQAlNWBwgaSBAQEEJXVQhvWgIbCVwMGBJEElMTPVBWEgwWB1AHAQFGHkEQWV9RRwoCUwEAUQgDAghTGkMSUFYSDBYBXQcGC0YeQQFIRlEXXlIKZlcAT11TVEMMDxdVXhwUW147UFRVBVwHRgoQBEccEQ9KQ0cDWkVdDRpDAFBGQldAVUYOEwpWClRGHBBXCkVdEktKRwMWeXVDGkMHQUZVWEdZC1oTAkZGEEYcEF0Wb0EDSkcXXFVdVBMUW0AJEBwUWVEca1JXClwGB0RbWwtDEVwbAkcVFl1eD18VDUttQF9QEl4WAglVC1JGTQ==
+
+
+
 #http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/55
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+#http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 
 #https://doofree88.com/streaming/sd-fox_720/index.m3u8
