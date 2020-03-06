@@ -14,6 +14,8 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brt1HLzQ/ttvri44.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="SPORTS",liga SHOPEE
+https://d1.uptocloud.co:182/d/0/qnz3f1w8hgg00l/shopee3.m3u8
+
 #https://etslive-2-vidio-com.akamaized.net/exp=1583078377~acl=/hls-p/ingest_6589_*/*~hmac=100f2f789eef04454acd6c665ae978e3255da5b1321eaf75e4d4d5e22eb8f7ca/hls-p/ingest_6589_720p/index.m3u8
 
 
