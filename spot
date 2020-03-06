@@ -32,12 +32,15 @@ http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&
 #EXTINF:-1 tvg-ID="" tvg-name="ASSP 4" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASTRO SUPERSPORT 4
 http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/617.ts
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="SPORTS",BEIN SPORT 1 ID
-http://id.bibytv.club:8888/wibowo285/12345678/728
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="SPORTS",BEIN SPORT 1
+#http://run.iptv.cab:80/live/rizal1978/234234riz/22219.ts
+http://run.iptv.cab:80/live/rizal1978/234234riz/492.ts
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORTS",BEIN SPORT 2 ID
 
-http://id.bibytv.club:8888/wibowo285/12345678/729
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORTS",BEIN SPORT 2
+http://run.iptv.cab:80/live/rizal1978/234234riz/6048.ts
+
+#http://id.bibytv.club:8888/wibowo285/12345678/729
 
 #http://103.28.148.205:25461/wibowo285/12345678/729?token=QhBYV0dYRg4TW1wHBQdTU1BWBQdTWFYDDFIAUlkHUFpYClQBVVZQDFUaSBAQEEJXVQhvWgIbCVILDRwTFEUEEGZbVBQOElMAAghdEE9GRFtZABIJVwwLVg0BAQRYBE1ASVtUFA4SVQQJCVMQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDl5EDVpNQFtbRERVRAEWCxpVBlVXEh4WBl9GCE1BHBsOEnglFE1AXEpEU1pDDVtfGl4QFxcSHhYMQ2wUXEARS1FRXAREQ1gbAhIaFl0FTG5bC1wNAVNGXQpeQEQDEVQbGBJcDlgIFlZAb0ZdVEYOEw5XB1NGTQ==
 
