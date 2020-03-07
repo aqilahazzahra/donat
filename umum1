@@ -379,9 +379,17 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/afn.png" group-title="Lifestyle",AFN
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/tlc.png" group-title="Lifestyle",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
+http://run.iptv.cab:80/live/rizal1978/234234riz/3658.ts
+
+
+#https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/hgtv.png" group-title="Lifestyle",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
+
+http://run.iptv.cab:80/live/rizal1978/234234riz/8170.ts
+
+
+
+#https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/VkL9t77N/travel4.png" group-title="Lifestyle",TRAVEL
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/foodie.png" group-title="Lifestyle",Foodie
@@ -408,7 +416,10 @@ https://liveanevia.mncnow.id/live/eds/MNCShop/sa_hls/MNCShop.m3u8
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_hls/LifeStyleFashion.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/h1.png" group-title="Knowledge",History
-https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/history/playlist.m3u8
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+
+
+#https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/history/playlist.m3u8
 #https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/docubox.png" group-title="Knowledge",Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
