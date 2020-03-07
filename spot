@@ -21,16 +21,27 @@ https://etslive-2-vidio-com.akamaized.net/exp=1583587706~acl=/hls-p/ingest_6589_
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nt2GGS9/shopee4.png" group-title="SPORTS",LIGA SHOPEE
 https://etslive-2-vidio-com.akamaized.net/exp=1583587627~acl=/hls-b/ingest_102_*/*~hmac=cf2e7f4734d8ef8bf09d09631f64083e102dc7991011ef5cb023c9ea0d8301ba/hls-b/ingest_102_720p/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ASSP 1" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASTRO SUPERSPORT 1
-http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
+http://175.142.196.240:9981/stream/channelid/747067897?ticket=95857BA1AAE6D70AFE706346EBB50671AF10FC95&profile=pass
+
+
+#http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/614.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ASSP 2" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASTRO SUPERSPORT 2
-http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
+http://175.142.196.240:9981/stream/channelid/1551258212?ticket=98901453041497B9125A51C37EFFD8D38DB56886&profile=pass
+
+#http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/615.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ASSP 3" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASTRO SUPERSPORT 3
-http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
+http://175.142.196.240:9981/stream/channelid/131382882?ticket=D8AD9A34B72CF125F9CD03783A01663443E16283&profile=pass
+
+
+#http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/616.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ASSP 4" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASTRO SUPERSPORT 4
-http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
+http://175.142.196.240:9981/stream/channelid/655713435?ticket=E5D3263A81B17BF76BAEE4FA2DCB7314C2473563&profile=pass
+
+
+# http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/617.ts
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="SPORTS",BEIN SPORT 1
 #http://run.iptv.cab:80/live/rizal1978/234234riz/22219.ts
@@ -56,17 +67,33 @@ https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9
 https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_2.m3u8
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX Sport HD
+
+http://175.142.196.240:9981/stream/channelid/308323883?ticket=FD728714C16774FB74ACA6D8E6F99B03415B52AA&profile=pass
+
+
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX Sport 1
+http://175.142.196.240:9981/stream/channelid/1089687633?ticket=EDFC44AC93DB8B2C706EB7ADC776DCCBBFD4F20E&profile=pass
+
+
+
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/30.ts
 #http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/784.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX Sport 1 HD
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/784.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX Sport 2
+
+http://175.142.196.240:9981/stream/channelid/1958641593?ticket=D455CA7A4B62CB2B3D2C32C38ECD4BA26A07A130&profile=pass
+
+
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/29.ts
 #http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/785.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX Sport 2 HD
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/785.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX Sport 3
+http://175.142.196.240:9981/stream/channelid/1157238001?ticket=D905A7DF263047204D0E13BCB634C40F4E2228D6&profile=pass
+
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/28.ts
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX Sport 3 HD
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/786.ts
@@ -118,20 +145,31 @@ http://run.iptv.cab:80/live/rizal1978/234234riz/523.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QZFc2x6/OTE4.png" group-title="SPORTS",OTE SPORTS 3
 http://run.iptv.cab:80/live/rizal1978/234234riz/524.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL
-http://al01.alcdn.hls.xiaoka.tv/live/Sf-bdXVGS6LjsD0E.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 1
+http://175.142.196.240:9981/stream/channelid/516410497?ticket=66F5262F34F89F77A754F87A318E62B01D561197&profile=pass
+
+
+#http://al01.alcdn.hls.xiaoka.tv/live/Sf-bdXVGS6LjsD0E.m3u8
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/830.ts
 #https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 2
+http://175.142.196.240:9981/stream/channelid/734306978?ticket=35CBB6D23DFDFC1075B9169101181EC2AFEE3E69&profile=pass
+
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/829.ts
 #https://www.doofree88.com/streaming/epl-x2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 3
+http://175.142.196.240:9981/stream/channelid/409951994?ticket=CBE88C3EBB4BCC35B6218C7BDB207CB550E81FD7&profile=pass
+
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/828.ts
 #https://www.doofree88.com/streaming/epl-x3_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 4
+http://175.142.196.240:9981/stream/channelid/1587033052?ticket=CD6086D8C4A415AAD38FB3D95682FAF0995F0404&profile=pass
+
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/827.ts
 #https://www.doofree88.com/streaming/epl-x4_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 5
+http://175.142.196.240:9981/stream/channelid/1910770271?ticket=00858FF7F628DA1436E598D281A9C7F6728DF40E&profile=pass
+
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/826.ts
 #https://www.doofree88.com/streaming/epl-x5_720/index.m3u8
 
