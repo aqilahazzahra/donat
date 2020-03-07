@@ -50,10 +50,10 @@ http://run.iptv.cab:80/live/rizal1978/234234riz/6048.ts
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 #http://streamku.live:8888/live/masmuto/masmuto20/516.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxZPkMW/b1pl.png" group-title="SPORTS",BEIN 1 PREMIER LEAGUE
-
+https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_2.m3u8
 #https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2fsSbRK/b2pl.png" group-title="SPORTS",BEIN 2 PREMIER LEAGUE
-#https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_1.m3u8
+https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_2.m3u8
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX Sport 1
@@ -91,6 +91,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1583587989~acl=/hls-p/ingest_geo_6
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2
 https://etslive-2-vidio-com.akamaized.net/exp=1583588005~acl=/hls-p/ingest_geo_6686_*/*~hmac=31a481c72bb3a00782887f2d300675a76f916f6c2d7be6185f9c0d4caa54ae91/hls-p/ingest_geo_6686_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 3
+https://etslive-2-vidio-com.akamaized.net/exp=1583594158~acl=/hls-p/ingest_geo_6786_*/*~hmac=788c1d9d6e3aea50880b92d29286d1e9d2dfcee8783b54c895c32b29bec5d252/hls-p/ingest_geo_6786_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXmkn4dF/NBC4.png" group-title="SPORTS",NBCSN SPORT
 
