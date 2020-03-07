@@ -1,11 +1,12 @@
 #extm3u
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/8kLP4jpp/FX4.png" group-title="Movies",FX
-http://139.99.68.120:8888/live/wibowo285/12345678/776.ts?token=QhBYV0dYRg4TDlxQUQdWBg1UBgEFDgQAWgBTUFQAA1APAwBTBgdSA1AaSBAQEEJXVQhvWgIbCVIOAhwTFEUEEGZbVBQOElMAAghdEE9GRFtZABIJVwwLVg0ABgFVBk1ASVtUFA4SXA0ACEYeQQFIRlEXXlIKZlcAT11TVEMMDxdVXhwUW147UFRVBVwHRgoQBEccEQ9KQ0cDWkVdDRpDAFBGQldAVUYOEwpWClRGHBBXCkVdEktKRwMWeXVDGkMHQUZVWEdZC1oTAkZGEEYcEF0Wb0EDSkcXXFVdVBMUW0AJEBwUWVEca1JXClwGB0RbWwtDEVwbAkcVFl1eD18VDUttQF9QEl4WAglWC0EZ
+http://run.iptv.cab:80/live/rizal1978/234234riz/3661.ts
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBhkPyYB/FXX4.png" group-title="Movies",FXX
+http://run.iptv.cab:80/live/rizal1978/234234riz/8176.ts
 
-#http://139.99.68.120:8888/live/wibowo285/12345678/776.ts?token=QhBYV0dYRg4TCQIHVFVTBFVQUwtWW1FdXAABAVhSUlAAAFZUVwJXUAIaSBAQEEJXVQhvWgIbCVIOAhwTFEUEEGZbVBQOElMAAghdEE9GRFtZABIJVwwLVg0FBwNWA01ASVtUFA4SUAIHGkgQBhxEV0YLUV85XVYTUFdVE1tYFA5VHhJZWm8AUVxZClZBXhICFkkSWhVJEV9XQVxdTRQDC01AUUJREl4WAwpdB0FIElFbEF5HFEARXxt9dBNNFAQaTVdeRV1fChYLGhBBQUgSW0c6QlYVTUEAWFlVQ0MMQ1IbHhJbVUg7V15WClcAEFldWhYSCUQIEUkbWV9fCEIOEGZCWVIWCkYHAApdEB4=
-
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fWGwDknc/FXM4.png" group-title="Movies",FXM
+http://run.iptv.cab:80/live/rizal1978/234234riz/8177.ts
 
 #http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #https://doofree88.com/streaming/hd-fxeng_480/index.m3u8
@@ -16,7 +17,7 @@ http://run.iptv.cab:80/live/rizal1978/234234riz/5766.ts
 
 #http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/834.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/gkdcTmjv/JGO4.png" group-title="Movies",JGO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
+#http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="Movies",HBO ext
 #/847.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="Movies",HBO
@@ -42,16 +43,11 @@ http://139.99.71.164:25461/live/wibowo285/12345678/592.ts?token=QhBYV0dYRg4TCl0D
 
 #https://doofree88.com/streaming/sd-asianseriesalt_480/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Red By HBO" tvg-logo="https://macan.live/img/red_hbo.png" group-title="Movies",Red By HBO
-/689.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/632VgCH1/MOV4.png" group-title="Movies",MOVIES NOW
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/nzD70pzy/TH4.png" group-title="Movies",Thrill
-
-
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
-
-
-
 #https://doofree88.com/streaming/sd-thrill_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH317ch1/CMAX4.png" group-title="Movies",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
@@ -63,18 +59,9 @@ http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bvC0JmDv/son44.png" group-title="Movies",Sony PIX
 https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/2SYD5whh/zb4.png" group-title="Movies",ZeeBioskop
-
-
 http://45.126.83.51/qwr9ew/s/s32/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/28wLnwVW/warnertv4.png" group-title="Movies",Warner TV HD
 http://139.99.83.97:25461/live/wibowo285/12345678/1533.ts?token=QhBYV0dYRg4TDVYCBV0GAw1dBgVQW1FdDARVUwVSAgddCwQCAgBTAlcaSBAQEEJXVQhvWgIbCVQMBwMdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoABAdRA1VOG0JZUhYKRgYFCVAEQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGBFBcEh4WBl9GCE1BHBsOEnglFE1AXEpEU1pDDVtfGl4QFxcSHhYMQ2wUXEARS1FRXAREQ1gbAhIaFl0FTG5bC1wNAVNGXQpeQEQDEVQbGBJcDlgIFlZAb0ZdVEYOEwBQBlFGTQ==
-
-
-#http://139.99.83.97:25461/live/wibowo285/12345678/1533.ts?token=QhBYV0dYRg4TXFYDVFZVAFBSCAQDDwJVDQ0DAVJVUlMPAAQOBQlWAAUaSBAQEEJXVQhvWgIbCVQMBwMdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoAAQZSBVVOG0JZUhYKRgUDDVMLQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGBFBREh4WBl9GCE1BHBsOEnglFE1AXEpEU1pDDVtfGl4QFxcSHhYMQ2wUXEARS1FRXAREQ1gbAhIaFl0FTG5bC1wNAVNGXQpeQEQDEVQbGBJcDlgIFlZAb0ZdVEYOEwBQBlFGTQ==
-
-
-#http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/76
-
 #https://doofree88.com/streaming/hd-warnertv_720/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IMC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies",IMC
 
