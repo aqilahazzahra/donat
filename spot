@@ -73,7 +73,17 @@ https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f
 #http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/786.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0Z4ZXS0/moto4.png" group-title="SPORTS",MOTOGP ESP
+
+
 http://skdn.redi-vo.com/iptv/ch1284?code=103131497823984&key=11345
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0Z4ZXS0/moto4.png" group-title="SPORTS",MOTOGP ITALY
+
+
+http://run.iptv.cab:80/live/rizal1978/234234riz/549.ts
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52GnyqmG/f14.png" group-title="SPORTS",FORMULA 1 ESP
 http://skdn.redi-vo.com/iptv/ch1285?code=103131497823984&key=47444
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NF1YNy77/TENNIS.jpg" group-title="SPORTS",SUPER TENNIS
