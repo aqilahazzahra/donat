@@ -50,8 +50,10 @@ http://run.iptv.cab:80/live/rizal1978/234234riz/6048.ts
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 #http://streamku.live:8888/live/masmuto/masmuto20/516.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxZPkMW/b1pl.png" group-title="SPORTS",BEIN 1 PREMIER LEAGUE
+
 #https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2fsSbRK/b2pl.png" group-title="SPORTS",BEIN 2 PREMIER LEAGUE
+#https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_1.m3u8
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX Sport 1
@@ -85,17 +87,10 @@ http://62.210.82.7:25461/live/Kara/Kara/23136.ts?token=HhVYAkpZQF8XCAcBVFJZVVEGU
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1
-http://103.28.148.205:25461/wibowo285/12345678/2407?token=QhBYV0dYRg4TCFMFB1EAUANXBwdSWgtdD1cDUFEBAFMOAlYFDFRSAQYaSBAQEEJXVQhvWgIbCVcNBAkdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoABgRRAVdOG0JZUhYKRgAGDkYeQQFIRlEXXlIKZlcAT11TVEMMDxdVXhwUW147UFRVBVwHRgoQBEccEQ9KQ0cDWkVdDRpDAFBGQldAVUYOEwlQAFtGHBBXCkVdEktKRwMWeXVDGkMHQUZVWEdZC1oTAkZGEEYcEF0Wb0EDSkcXXFVdVBMUW0AJEBwUWVEca1JXClwGB0RbWwtDEVwbAkcVFl1eD18VDUttQF9QEl4WBw5cAUEZ
-#http://id.bibytv.club:8888/wibowo285/12345678/2407
-
+https://etslive-2-vidio-com.akamaized.net/exp=1583587989~acl=/hls-p/ingest_geo_6685_*/*~hmac=8ed34e18eae70527ddb1d5b31f56bd7905c24e3eb28fabfca2f996bb279b4a51/hls-p/ingest_geo_6685_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2
-#http://103.28.148.205:25461/wibowo285/12345678/2409?token=QhBYV0dYRg4TCFMFB1EAUANXBwdSWgtdD1cDUFEBAFMOAlYFDFRSAQYaSBAQEEJXVQhvWgIbCVcNBAkdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoABgRRAVdOG0JZUhYKRgAGDkYeQQFIRlEXXlIKZlcAT11TVEMMDxdVXhwUW147UFRVBVwHRgoQBEccEQ9KQ0cDWkVdDRpDAFBGQldAVUYOEwlQAFtGHBBXCkVdEktKRwMWeXVDGkMHQUZVWEdZC1oTAkZGEEYcEF0Wb0EDSkcXXFVdVBMUW0AJEBwUWVEca1JXClwGB0RbWwtDEVwbAkcVFl1eD18VDUttQF9QEl4WBw5cAUEZ
-http://id.bibytv.club:8888/wibowo285/12345678/2409
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2+
-#https://etslive-2-vidio-com.akamaized.net/exp=1582984743~acl=/hls-b/ingest_geo_6686_*/*~hmac=441b4aae2ba36bbbeb20284fbf202a9ecf85856c2193697445fc5609339bb521/hls-b/ingest_geo_6686_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583588005~acl=/hls-p/ingest_geo_6686_*/*~hmac=31a481c72bb3a00782887f2d300675a76f916f6c2d7be6185f9c0d4caa54ae91/hls-p/ingest_geo_6686_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXmkn4dF/NBC4.png" group-title="SPORTS",NBCSN SPORT
 
