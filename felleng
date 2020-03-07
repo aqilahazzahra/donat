@@ -1,17 +1,10 @@
 #extm3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FF8dtdy6/top.jpg" group-title="TOP",TUKANG OJEK PENGKOLAN 6
-https://d1.uptocloud.co:182/d/5/8cstxc8czwce0j/TOP%2012%20November%202018.mp4
+#https://d1.uptocloud.co:182/d/5/8cstxc8czwce0j/TOP%2012%20November%202018.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FF8dtdy6/top.jpg" group-title="TOP",TUKANG OJEK PENGKOLAN 5
-https://d1.uptocloud.co:182/d/1/l0pqz21fpxgoca/TOP%2011%20November%202018.mp4
+#ttps://d1.uptocloud.co:182/d/1/l0pqz21fpxgoca/TOP%2011%20November%202018.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FF8dtdy6/top.jpg" group-title="TOP",TUKANG OJEK PENGKOLAN 4
-https://d1.uptocloud.co:182/d/1/5rhg24s3dl4rr8/TOP%2010%20November%202018.mp4
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FF8dtdy6/top.jpg" group-title="TOP",TUKANG OJEK PENGKOLAN 3
-https://d1.uptocloud.co:182/d/0/uxhytnetqsktwi/TOP%205%20November%202018.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FF8dtdy6/top.jpg" group-title="TOP",TUKANG OJEK PENGKOLAN 2
-https://r1---sn-2uuxa3vh-02bd.googlevideo.com/videoplayback?expire=1581715309&ei=DbtGXpi3K8S93LUP3a2xKA&ip=180.249.202.52&id=o-AO3Nc8eYzHA6zZ9VfpZccX1CNijb49PurTeJRnruDtWY&itag=18&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-2uuxa3vh-02bd%2Csn-npoe7nez&ms=au%2Crdu&mv=m&mvi=0&pcm2cms=yes&pl=24&initcwndbps=295000&vprv=1&mime=video%2Fmp4&gir=yes&clen=216032721&ratebypass=yes&dur=4535.460&lmt=1541419572431959&mt=1581693592&fvip=1&fexp=23842630&c=WEB_EMBEDDED_PLAYER&txp=2311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRAIgMywQ48d098CNrGpcqUv41wRx5IrnVGkfgcmPveEcvvECIEA4Fgb4PHP9N536ShYBaS3JD_0vPgmI_0nIP6kSIiLT&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIgPNQqsMBsf15bvRQMS3Hv-lJ_vuBJ-z08htzdDBcOzl0CIQCl15H4Jd4h9MIVLzGRXe-MV_kF4Dyzf-eBAeLUH1KV1Q%3D%3D
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FF8dtdy6/top.jpg" group-title="TOP",TUKANG OJEK PENGKOLAN 1
-https://r3---sn-npoe7n7z.googlevideo.com/videoplayback?expire=1581715409&ei=cLtGXvayN7PIz7sP_piqiAQ&ip=180.249.202.52&id=o-AO5wK3ep1n7RY073pkiDJrbA8bd0k7tYrhx-w2J_RGil&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=231188377&ratebypass=yes&dur=4773.860&lmt=1541409515041870&fvip=3&fexp=23842630,23872990&c=WEB_EMBEDDED_PLAYER&txp=2311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgU5a1Jskq3FUFn0WPqTljCyYWph3S8o_R_ojD1YAGnLYCIQDnEiLQ4ooRz7Nya-eW6jBmWumfYKs3hXO0LMjUS5uOPw%3D%3D&cm2rm=sn-2uuxa3vh-02bd7s,sn-npozl7s&req_id=82d0c0019dd2a3ee&ipbypass=yes&redirect_counter=2&cms_redirect=yes&mm=34&mn=sn-npoe7n7z&ms=ltu&mt=1581693739&mv=m&mvi=2&pl=24&lsparams=ipbypass,mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRQIgT-5LYUj9nImc5gkmJ6c5lYj4S-boHuE3t9z_4msMltECIQCUr1NZZWLzd7-WkDx73gLwlxlY1XOxQhpnsBwRwOHKPQ%3D%3D
+#https://d1.uptocloud.co:182/d/1/5rhg24s3dl4rr8/TOP%2010%20November%202018.mp4
 
 #EXTINF:-1 tvg-logo="http://www.supercartube.com/media/videos/tmb/967/1.jpg" group-title="Komedi MakBety",040 Beti Gak Mau Kalah dan Ngaalah
 http://www.supercartube.com/media/videos/h264/967_1080p.mp4
@@ -482,6 +475,14 @@ https://www.googleapis.com/drive/v3/files/1k6oiOLYPskxJZUOcYpcszmB-p3tsQbYm?alt=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwZ4chhQ/message.jpg" group-title="MOVIE BARAT",The Messenger (Rasulullah) 
 https://www.googleapis.com/drive/v3/files/1TGW056bIN0yPnoMgdYr80tyH8OpFLRxy?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
 #https://d1.uptocloud.co:182/d/0/a8127ia7mcyi7x/[720p]The.Message.1976.WEB-DL%20%E2%80%A2%20MELONGFILM.in.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2svhCG0/bird4.jpg" group-title="MOVIE BARAT",Birds of Prey (2020)
+https://www.googleapis.com/drive/v3/files/19haT-FcpbxFT4TK85nswGoNd6sGUD7J2?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6ptryWJS/spen.jpg" group-title="MOVIE BARAT",Spenser Confidential (2020)
+https://www.googleapis.com/drive/v3/files/16vUztXHKqNGl3AoEFe0LXa5BvsYyttS2?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxpg8BP1/esc4.jpg" group-title="MOVIE BARAT",Escape from Pretoria (2020)
+https://www.googleapis.com/drive/v3/files/1maeFczvtrT58LkrsCn_TKxOUrE2Z1m35?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc8YfKdn/lw4.jpg" group-title="MOVIE BARAT",Little Women (2019)
+https://www.googleapis.com/drive/v3/files/1J6Ycxul3xPvgkJaVVDopdFrTBV5mhI9J?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFp5kgtz/dark.jpg" group-title="MOVIE BARAT",DARK WATER 2019
 https://www.googleapis.com/drive/v3/files/1M88K0Y1e0q9IW9ePJ7WprSvib7Ll7JV3?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpjZ1Fy1/ejen.jpg" group-title="MOVIE BARAT",EJEN ALI 2019
