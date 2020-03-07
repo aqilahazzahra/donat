@@ -49,9 +49,6 @@ http://run.iptv.cab:80/live/rizal1978/234234riz/6048.ts
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORTS",BEIN SPORT MAX
 
 
-http://139.99.68.120:8888/wibowo285/12345678/4272?token=QhBYV0dYRg4TXgcLU1xTUwRcVQFXDgsADgUGVwQHAwFcVwMBDFYBUAQaSBAQEEJXVQhvWgIbCVELAwIdQ0MSB0ttWVIWCkYDBQtUC0FIEkZdCFURXAgGXQoABQBUD1ZOG0JZUhYKRgYDDVYBQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGA1VTCRAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcIFhwTDFkPC01dQmlEWQAWCxpWBldREk8=
-
-
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 #http://streamku.live:8888/live/masmuto/masmuto20/516.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxZPkMW/b1pl.png" group-title="SPORTS",BEIN 1 PREMIER LEAGUE
@@ -129,9 +126,9 @@ http://185.180.12.89:8080/SPORT1/index.m3u8?token=test
 http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
 #https://www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wSwpDnk/skyser4.png" group-title="SPORTS",SKY Sports SERIE A
-http://run.iptv.cab:80/live/rizal1978/234234riz/516.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wSwpDnk/skyser4.png" group-title="SPORTS",SKY Sports SERIE A (BACKUP)
 http://run.iptv.cab:80/live/rizal1978/234234riz/2481.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wSwpDnk/skyser4.png" group-title="SPORTS",SKY Sports SERIE A (BACKUP)
+http://run.iptv.cab:80/live/rizal1978/234234riz/516.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prVfRcQq/usee44.png" group-title="SPORTS", USEE SPORTS
 #https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/useesports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prVfRcQq/usee44.png" group-title="SPORTS", USEE SPORTS 2
