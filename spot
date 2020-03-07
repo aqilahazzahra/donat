@@ -74,10 +74,14 @@ http://139.99.68.120:8888/wibowo285/12345678/4272?token=QhBYV0dYRg4TXgcLU1xTUwRc
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX Sport 3 HD
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/786.ts
 #http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/786.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0Z4ZXS0/moto4.png" group-title="SPORTS",MOTOGP ESP
 http://skdn.redi-vo.com/iptv/ch1284?code=103131497823984&key=11345
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52GnyqmG/f14.png" group-title="SPORTS",FORMULA 1 ESP
 http://skdn.redi-vo.com/iptv/ch1285?code=103131497823984&key=47444
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF1YNy77/TENNIS.jpg" group-title="SPORTS",SUPER TENNIS
+http://run.iptv.cab:80/live/rizal1978/234234riz/2483.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnrTN7Fk/Motorvision-TV.png" group-title="SPORTS",MOTORVISION
 
@@ -119,17 +123,15 @@ https://www.doofree88.com/streaming/epl-x4_720/index.m3u8
 https://www.doofree88.com/streaming/epl-x5_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2RjGvWv/sk1.png" group-title="SPORTS",SKY NET Sports 1
-
 http://185.180.12.89:8080/SPORT1/index.m3u8?token=test
-
-
 #https://www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2RjGvWv/sk1.png" group-title="SPORTS",SKY NET Sports 2
-
 http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
-
 #https://www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wSwpDnk/skyser4.png" group-title="SPORTS",SKY Sports SERIE A
+http://run.iptv.cab:80/live/rizal1978/234234riz/516.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wSwpDnk/skyser4.png" group-title="SPORTS",SKY Sports SERIE A (BACKUP)
+http://run.iptv.cab:80/live/rizal1978/234234riz/2481.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prVfRcQq/usee44.png" group-title="SPORTS", USEE SPORTS
 #https://b27v.broiptv.online/play/free.broiptv@broiptv.online/kEpj4e9G/splXPzuY/rattus/useesports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prVfRcQq/usee44.png" group-title="SPORTS", USEE SPORTS 2
@@ -144,6 +146,7 @@ http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXmkn4dF/NBC4.png" group-title="SPORTS",NBCSN HD
 #http://ok2.se:8000/f13aF7U7oZu8RElRW/4ddcF9UZEHzahR0G6/170
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/n9DJwvt8/eu1.jpg" group-title="SPORTS",EUROSPORT 1
@@ -251,11 +254,10 @@ EXTINF:-1 tvg-logo="" group-title="SPORTS",CHELSEA TV
 #http://185.63.254.79:4747/sports2020/lfctv/chunks.m3u8?nimblesessionid=43867808&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTE6MzkgQU0maGFzaF92YWx1ZT1xWDJFZktpWVIyeitQV25URjRSdmtBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",MU TV
-#http://185.63.254.79:4747/sports2020/mutv/chunks.m3u8?nimblesessionid=43868024&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTI6MjAgQU0maGFzaF92YWx1ZT1jeWduL3l5V3RUaGo3WS9pK2FjNGxBPT0mdmFsaWRtaW51dGVzPTI=
+http://run.iptv.cab:80/live/rizal1978/234234riz/466.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",REAL MADRID TV
 http://3lb.top:8000/live/aaddccddeeffgg225/photosta_getr44NN/943.ts
-
 
 #http://185.63.254.79:4747/sports2020/realmadrid/chunks.m3u8?nimblesessionid=43868161&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTI6NTMgQU0maGFzaF92YWx1ZT1EZk5uOVdYZkFSQlFnTVAvYitSWHJRPT0mdmFsaWRtaW51dGVzPTI=
 
