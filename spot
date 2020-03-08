@@ -245,10 +245,10 @@ https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",LIVERPOL TV
 #http://185.63.254.79:4747/sports2020/lfctv/chunks.m3u8?nimblesessionid=43867808&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTE6MzkgQU0maGFzaF92YWx1ZT1xWDJFZktpWVIyeitQV25URjRSdmtBPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",MU TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxL6h0w4/mu44.png" group-title="SPORTS",MU TV
 http://run.iptv.cab:80/live/rizal1978/234234riz/466.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",REAL MADRID TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHvNwTwB/real44.png" group-title="SPORTS",REAL MADRID TV
 http://3lb.top:8000/live/aaddccddeeffgg225/photosta_getr44NN/943.ts
 
 #http://185.63.254.79:4747/sports2020/realmadrid/chunks.m3u8?nimblesessionid=43868161&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTI6NTMgQU0maGFzaF92YWx1ZT1EZk5uOVdYZkFSQlFnTVAvYitSWHJRPT0mdmFsaWRtaW51dGVzPTI=
