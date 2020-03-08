@@ -86,7 +86,7 @@ http://62.210.82.7:25461/live/Kara/Kara/23136.ts?token=HhVYAkpZQF8XCAcBVFJZVVEGU
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1
 #https://etslive-2-vidio-com.akamaized.net/exp=1583587989~acl=/hls-p/ingest_geo_6685_*/*~hmac=8ed34e18eae70527ddb1d5b31f56bd7905c24e3eb28fabfca2f996bb279b4a51/hls-p/ingest_geo_6685_720p/index.m3u8
-https://etslive-2-vidio-com.akamaized.net/exp=1583608381~acl=/hls-p/ingest_geo_6685_*/*~hmac=9aa151c15292937eafba8da7f39134451a284fe89775d33f40797f1dd6ae5253/hls-p/ingest_geo_6685_720p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1583608381~acl=/hls-p/ingest_geo_6685_*/*~hmac=9aa151c15292937eafba8da7f39134451a284fe89775d33f40797f1dd6ae5253/hls-p/ingest_geo_6685_720p/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1583647130~acl=/hls-p/ingest_geo_6685_*/*~hmac=3505a6656250873293e62b5ef811a9884e56f9b235f90beeab9b425ebe8962bf/hls-p/ingest_geo_6685_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2
