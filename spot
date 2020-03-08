@@ -14,9 +14,8 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brt1HLzQ/ttvri44.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nt2GGS9/shopee4.png" group-title="SPORTS",LIGA SHOPEE 1
-https://etslive-2-vidio-com.akamaized.net/exp=1583587706~acl=/hls-p/ingest_6589_*/*~hmac=809e85423641e527eb6be5ba98a6f558e0c8e3c303b38cf172700f000152143f/hls-p/ingest_6589_720p/index.m3u8
-
-#https://video-weaver.hkg01.hls.ttvnw.net/v1/playlist/CrgE_Qk7dd7TOfvG5zSVVEyjN3CsMsIbZVCJUYqBW-cE8XLB443MqwARDUqE3lMLJLHnYQ81ii1fr2zoXzHe5EM9NNbw84YCILUwkKrBHph33k3OcZkpvIOZTyfNbUIbpufYp2l_4G4_-3HHOOHHUQ2UYQcWXAwM3PdUg-ij3Km9IR3vGzd7AmUllOCoNean5oz94zNmPVDjKYaPoNKGkivxM1mSBrn6EZzAqXxpvCHgLpsBhEoQugFdA6K2AjIRzmAEKGfnBtIVpw52JK4kuuaSyccP6xcqjC_PxY07kpqhlVxLaQ1jtFt67-LhMEi6tgn0MZzaKrvwJUCfHQgpevkdMEdiO8SGIDLXcrSooamGquoiNq3jmNrItiySngI3XRR1KoJl8-INiPhDBozyETq1m1hkZOQhww-3BZkfr9QgW0Ay8nx1jJ3C2ZKsbhvV_ZYEg4nRXF-LJhTATZRranNkP1hPqeeQewgm98by-lsqHHvWum1Zev8BuqguKjKtoRExsp6OzXiRb2vSKhvtSCt-a_0k9ji6NqdRGFUPYKZ0Y3usa1R7JLtDzWWVLRZ3BSnt0ZDiPlHoI2PirDq0YcXd701XjdwSg2KXJQRg4bQ9iVq9Pa9kialwt0goi22xknZZ4hQJQiyV6Q6UXva4rVst_2eRYzeBUJ-EetkRioTGyZUWUxJXzSjJtRJB31dVZIhoENWuBOSWZCZXv_9zzrFgu3hRbaE3IB1U-TwBtRBWYOFGuX4iw2o0HxIQ2AuXUQr9urZtCo_tGR1WhRoMeBAS72zeC8qst_Ww.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1583587706~acl=/hls-p/ingest_6589_*/*~hmac=809e85423641e527eb6be5ba98a6f558e0c8e3c303b38cf172700f000152143f/hls-p/ingest_6589_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583669233~acl=/hls-p/ingest_6588_*/*~hmac=23a131dd4743fdc02714d693c2123eaa2dae337fb185e7cfb75377df29de750f/hls-p/ingest_6588_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nt2GGS9/shopee4.png" group-title="SPORTS",LIGA SHOPEE 2
 https://etslive-2-vidio-com.akamaized.net/exp=1583587627~acl=/hls-b/ingest_102_*/*~hmac=cf2e7f4734d8ef8bf09d09631f64083e102dc7991011ef5cb023c9ea0d8301ba/hls-b/ingest_102_720p/index.m3u8
 
