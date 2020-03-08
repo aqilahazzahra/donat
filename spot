@@ -49,12 +49,18 @@ http://run.iptv.cab:80/live/rizal1978/234234riz/6048.ts
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORTS",BEIN SPORT MAX
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxZPkMW/b1pl.png" group-title="SPORTS",BEIN 1 PREMIER LEAGUE
-https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxZPkMW/b1pl.png" group-title="SPORTS",BEIN 1 Asia
+
+http://ok2.se:8000/live/f13aF7U7oZu8RElRW/4ddcF9UZEHzahR0G6/80782.ts
+
+
+#https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_2.m3u8
 #https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2fsSbRK/b2pl.png" group-title="SPORTS",BEIN 2 PREMIER LEAGUE
-https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2fsSbRK/b2pl.png" group-title="SPORTS",BEIN 2 Asia
+http://ok2.se:8000/live/f13aF7U7oZu8RElRW/4ddcF9UZEHzahR0G6/80781.ts
+
+#https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_2.m3u8
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX Sport HD
