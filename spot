@@ -131,6 +131,7 @@ http://run.iptv.cab:80/live/rizal1978/234234riz/1223.ts
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RV7c2spn/PL4.png" group-title="SPORTS",PREMIER FOOTBALL 1
 #http://175.142.196.240:9981/stream/channelid/516410497?ticket=66F5262F34F89F77A754F87A318E62B01D561197&profile=pass
 #http://al01.alcdn.hls.xiaoka.tv/live/Sf-bdXVGS6LjsD0E.m3u8
@@ -313,6 +314,27 @@ http://run.iptv.cab:80/live/rizal1978/234234riz/1077.ts
 http://run.iptv.cab:80/live/yanti1978/234234riz/1077.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJs6zKmm/ote444.png" group-title="SPORTS STABLE",OTE SPORTS 8 backup 2
 http://run.iptv.cab:80/live/riz260578/zalindoASU/1077.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 1
+http://run.iptv.cab:80/live/rizal1978/234234riz/1508.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 1 BACKUP 1
+http://run.iptv.cab:80/live/yanti1978/234234riz/1508.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 1 BACKUP 2
+http://run.iptv.cab:80/live/riz260578/zalindoASU/1508.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 2
+http://run.iptv.cab:80/live/rizal1978/234234riz/1509.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 2 BACKUP 1
+http://run.iptv.cab:80/live/yanti1978/234234riz/1509.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 2 BACKUP 2
+http://run.iptv.cab:80/live/riz260578/zalindoASU/1509.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 2
+http://run.iptv.cab:80/live/rizal1978/234234riz/3106.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 2 BACKUP 1
+http://run.iptv.cab:80/live/yanti1978/234234riz/3106.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 2 BACKUP 2
+http://run.iptv.cab:80/live/riz260578/zalindoASU/3106.ts
 
 ########## BEIN SPORT ##############
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/110.png" group-title="BEIN SPORT", Bein Sports News
