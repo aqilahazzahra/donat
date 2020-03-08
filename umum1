@@ -425,11 +425,17 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/animalpl.png" group-title="Knowledge",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/natgeopeople.png" group-title="Knowledge",Nat Geo People
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+
+
+#https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/outdoorch.png" group-title="Knowledge",Outdoor Channel
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/natgeo.png" group-title="Knowledge",Nat Geo Channel
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+
+
+#https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/discturbo.png" group-title="Knowledge",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/discch.png" group-title="Knowledge",Discovery Channel
