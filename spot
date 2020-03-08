@@ -330,11 +330,12 @@ http://run.iptv.cab:80/live/yanti1978/234234riz/1509.ts
 http://run.iptv.cab:80/live/riz260578/zalindoASU/1509.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 3
-http://run.iptv.cab:80/live/rizal1978/234234riz/3106.ts
+http://run.iptv.cab:80/live/rizal1978/234234riz/1148.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 3 BACKUP 1
-http://run.iptv.cab:80/live/yanti1978/234234riz/3106.ts
+http://run.iptv.cab:80/live/yanti1978/234234riz/1148.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 3 BACKUP 2
-http://run.iptv.cab:80/live/riz260578/zalindoASU/3106.ts
+http://run.iptv.cab:80/live/riz260578/zalindoASU/1148.ts
+
 
 ########## BEIN SPORT ##############
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/110.png" group-title="BEIN SPORT", Bein Sports News
