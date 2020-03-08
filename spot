@@ -327,11 +327,13 @@ http://run.iptv.cab:80/live/yanti1978/234234riz/1508.ts
 http://run.iptv.cab:80/live/riz260578/zalindoASU/1508.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 2
-http://run.iptv.cab:80/live/rizal1978/234234riz/1509.ts
+http://run.iptv.cab:80/live/rizal1978/234234riz/461.ts
+
+#http://run.iptv.cab:80/live/rizal1978/234234riz/1509.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 2 BACKUP 1
-http://run.iptv.cab:80/live/yanti1978/234234riz/1509.ts
+http://run.iptv.cab:80/live/yanti1978/234234riz/461.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 2 BACKUP 2
-http://run.iptv.cab:80/live/riz260578/zalindoASU/1509.ts
+http://run.iptv.cab:80/live/riz260578/zalindoASU/461.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BtWKz12M/bt44.png" group-title="SPORTS STABLE",BT SPORTS 3
 http://run.iptv.cab:80/live/rizal1978/234234riz/1148.ts
