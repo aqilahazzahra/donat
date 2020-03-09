@@ -50,15 +50,19 @@ http://run.iptv.cab:80/live/rizal1978/234234riz/6048.ts
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxZPkMW/b1pl.png" group-title="SPORTS",BEIN 1 Asia
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/185.ts
 
-http://ok2.se:8000/live/f13aF7U7oZu8RElRW/4ddcF9UZEHzahR0G6/80782.ts
+
+#http://ok2.se:8000/live/f13aF7U7oZu8RElRW/4ddcF9UZEHzahR0G6/80782.ts
 
 
 #https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_2.m3u8
 #https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2fsSbRK/b2pl.png" group-title="SPORTS",BEIN 2 Asia
-http://ok2.se:8000/live/f13aF7U7oZu8RElRW/4ddcF9UZEHzahR0G6/80781.ts
+#http://ok2.se:8000/live/f13aF7U7oZu8RElRW/4ddcF9UZEHzahR0G6/80781.ts
+
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/185.ts
 
 #https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_2.m3u8
 #https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
@@ -68,12 +72,16 @@ http://ok2.se:8000/live/f13aF7U7oZu8RElRW/4ddcF9UZEHzahR0G6/80781.ts
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS",FOX Sport 1
 #http://175.142.196.240:9981/stream/channelid/1089687633?ticket=EDFC44AC93DB8B2C706EB7ADC776DCCBBFD4F20E&profile=pass
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/30.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS",FOX Sport 2
 #http://175.142.196.240:9981/stream/channelid/1958641593?ticket=D455CA7A4B62CB2B3D2C32C38ECD4BA26A07A130&profile=pass
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/29.ts
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS",FOX Sport 3
 #http://175.142.196.240:9981/stream/channelid/1157238001?ticket=D905A7DF263047204D0E13BCB634C40F4E2228D6&profile=pass
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/28.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0Z4ZXS0/moto4.png" group-title="SPORTS",MOTOGP ESP
 http://skdn.redi-vo.com/iptv/ch1284?code=103131497823984&key=11345
