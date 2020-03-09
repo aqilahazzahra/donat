@@ -113,8 +113,9 @@ https://etslive-2-vidio-com.akamaized.net/exp=1583662594~acl=/hls-b/ingest_geo_6
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXmkn4dF/NBC4.png" group-title="SPORTS",NBCSN SPORT
-http://ok2.se:8000/vmqZGRlWAj/0QqZo1i0q4/170
+http://run.iptv.cab:80/live/rizal1978/234234riz/8129.ts
 
+#http://ok2.se:8000/vmqZGRlWAj/0QqZo1i0q4/170
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QZFc2x6/OTE4.png" group-title="SPORTS",OTE SPORTS 1
 http://run.iptv.cab:80/live/rizal1978/234234riz/522.ts
 
