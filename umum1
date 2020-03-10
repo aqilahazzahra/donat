@@ -247,13 +247,13 @@ http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6p9B3NNv/madinah4.png" group-title="Religious",Madinah TV
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RV1M4Z2m/muslim4.png" group-title="Religious",Muslim TV
-https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
+3https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SNbyBMTV/tawafy.png" group-title="Religious",Tawaf TV
-https://liveanevia.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV.m3u8
+#https://liveanevia.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/WpkNYnnh/wesal4.png" group-title="Religious",Wesal TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HnXTJYxQ/insan4.png" group-title="Religious",Insan TV
-http://wz.insantv.net/group/ngrp:insantv_all/chunklist.m3u8
+#http://wz.insantv.net/group/ngrp:insantv_all/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fbqzpqp0/ahsan4.png" group-title="Religious",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH5mTzgp/aliman4.png" group-title="Religious",Al-Iman TV
@@ -261,15 +261,15 @@ http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P54rz5My/rodja4.png" group-title="Religious",Rodja TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5jdDD8fz/ashil4.png" group-title="Religious",Ashiil TV
-http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
+#http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/1RnXhP9R/tvm4.png" group-title="Religious",TVMU
-https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
+#https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T2zwTSwV/tv94.png" group-title="Religious",TV9
-https://liveanevia.mncnow.id/live/eds/TV9/sa_hls/TV9.m3u8
+#https://liveanevia.mncnow.id/live/eds/TV9/sa_hls/TV9.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C1ZhgHpr/life4.png" group-title="Religious",LIFE
-https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
+#https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HWM2WrHV/ewtn4y.png" group-title="Religious",EWTN
-https://liveanevia.mncnow.id/live/eds/EWTN/sa_hls/EWTN.m3u8
+#https://liveanevia.mncnow.id/live/eds/EWTN/sa_hls/EWTN.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5h5ww1N/refor214.png" group-title="Religious",Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 
