@@ -164,7 +164,7 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9F29LbR1/useetvp4.png" group-title="Entertainment",Usee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/y8YZHNTZ/vision4.png" group-title="Entertainment",Vision Prime
-https://anevia115.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
+#https://anevia115.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 #https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MKYQNB1w/egg4.png" group-title="Entertainment",eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
@@ -201,7 +201,7 @@ http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cLKgSpBc/cnn4.png" group-title="News",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Hsk8ScJR/mnc_news4.png" group-title="News",MNC News
-https://cdn-livetv1.metube.id/hls/mncsport_480/index.m3u8
+#https://cdn-livetv1.metube.id/hls/mncsport_480/index.m3u8
 #https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/kMctFF5W/cnbc4.png" group-title="News",CNBC Indo
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
