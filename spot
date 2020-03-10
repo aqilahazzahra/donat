@@ -185,10 +185,10 @@ http://run.iptv.cab:80/live/rizal1978/234234riz/516.ts
 http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yx5ktLLJ/rmc4.png" group-title="SPORTS", RMC 5 HD
 #http://163.172.42.249:25461/live/rmcsport5/2350888447/66.ts?token=ThYLAktYEAsbVlYPBQBTAlUJBlcDBgJRBAFRVAIJVAUFUFJbDgJWVQoVHxUQQxMEVVQ6DFEXDFRUGEYWQl1HaFxQQVkaBRAdG0NaWgYVW1ABAVZUBQEDUFUYRhNYXBcNFwVVWg0SHhNcT0dSEVkADWtdABNcVlNAWFoRD10UF1hbawcGVVFcVRsNEQdBG0MIR0lHX1tAWg5OFgYKRUpUQ1AWWUENAAcBGxsRVAxCDxVGQEdfF3xyQE4WARtFXVtEXFsNQQISRkIbGxFeEGgTBEdNFwBUWFMQQA5GUhMUF1pUTDwAV15cVFpDWlgNRENbFglHSRdYWQwLQAsRbkhcUxcOQVEKBgUFG0o=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/n9DJwvt8/eu1.jpg" group-title="SPORTS",EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R09Dt8js/eu44.png" group-title="SPORTS",EUROSPORT 1
 http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 #https://www.doofree88.com/streaming/uk-eurosport_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FdqvZT8g/eu2.jpg" group-title="SPORTS",EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R09Dt8js/eu44.png" group-title="SPORTS",EUROSPORT 2
 #https://www.doofree88.com/streaming/uk-eurosport2_480/index.m3u8
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 
@@ -218,11 +218,12 @@ https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpscF0xt/SESPN.png" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdu4ABMo8FuvPS6aTbXvAXU23f7ZxjnQeaHtHtNoqA_iBWIBbs" group-title="SPORTS", Sky Sport Premier
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2823
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQVuCEK2gGic1oxgR3QLgRq2GD0KOnV5cZN-RhMkLoEMTce6EnOE6z4FVNBabDg&s" group-title="SPORTS", Sky Main Even
 http://95.170.215.120/hls/m3u8/Sky-S-main-even.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlull-yNgnoBdnkhaD6f4HxjOX-8_YpBXPicm7_v_xoviEpK8AoPKejvg0Wg&s" group-title="SPORTS", Sky Sport Action
 http://95.170.215.120/hls/m3u8/Sky-Sport-action.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNVJU0oyXFQbbmygjWPjmIEF5DK8ZqNWaJDU-DvAIVTMQOrERqQ&s" group-title="SPORTS", Sky Sport Arena
 http://95.170.215.120/hls/m3u8/Sky-Sports-Arena.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzHZ3OGU2qhppyAfoDaCq3yilmCyYnrNWhLkODvPCI604E9mRs" group-title="SPORTS", Sky Sport Cricket
@@ -231,8 +232,6 @@ http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
 http://95.170.215.120/hls/m3u8/Sky-Sports-F1-HD.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbFpvqwKRVAk6CYHuhoneHkLz-SpHdL_rwND3i8g46FRUZx3Cc" group-title="SPORTS", Sky Sport News
 http://95.170.215.120/hls/m3u8/Sky-Sports-News.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdu4ABMo8FuvPS6aTbXvAXU23f7ZxjnQeaHtHtNoqA_iBWIBbs" group-title="SPORTS", Sky Sport Premier
-http://95.170.215.120/hls/m3u8/Sky-Sport-Pre-L.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/py2cGQRK/TSHD01.png" group-title="SPORTS",True Sport HD1
 #https://doofree88.com/streaming/hd-tsport1_720/index.m3u8
@@ -262,10 +261,17 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #http://185.63.254.79:4747/sports2020/lfctv/chunks.m3u8?nimblesessionid=43867808&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTE6MzkgQU0maGFzaF92YWx1ZT1xWDJFZktpWVIyeitQV25URjRSdmtBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxL6h0w4/mu44.png" group-title="SPORTS",MU TV
-http://run.iptv.cab:80/live/rizal1978/234234riz/466.ts
+#http://run.iptv.cab:80/live/rizal1978/234234riz/466.ts
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2964
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHvNwTwB/real44.png" group-title="SPORTS",REAL MADRID TV
-http://3lb.top:8000/live/aaddccddeeffgg225/photosta_getr44NN/943.ts
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2908
+#http://3lb.top:8000/live/aaddccddeeffgg225/photosta_getr44NN/943.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxL6h0w4/mu44.png" group-title="SPORTS",MU TV
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yM0h3gV/lv4.png" group-title="SPORTS",LIVERPOOL FC TV
+http://sp3te.website:8080/live:alinhotfc/n2J5QTnoEp/2966
 
 #http://185.63.254.79:4747/sports2020/realmadrid/chunks.m3u8?nimblesessionid=43868161&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTI6NTMgQU0maGFzaF92YWx1ZT1EZk5uOVdYZkFSQlFnTVAvYitSWHJRPT0mdmFsaWRtaW51dGVzPTI=
 
