@@ -43,10 +43,10 @@ http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/621.ts
 # http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
 #http://103.146.185.235:8888/live/Kinoz/Mantulok/617.ts
 
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="SPORTS",BEIN SPORT 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MwgHhTf/bein44.png" group-title="SPORTS",BEIN SPORT 1
 http://run.iptv.cab:80/live/rizal1978/234234riz/492.ts
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORTS",BEIN SPORT 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MwgHhTf/bein44.png" group-title="SPORTS",BEIN SPORT 2
 http://run.iptv.cab:80/live/rizal1978/234234riz/6048.ts
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORTS",BEIN SPORT MAX
