@@ -252,7 +252,7 @@ http://95.170.215.120/hls/m3u8/Sky-Sports-News.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-logo="https://i.postimg.cc/cLn6d8tr/MNC_SPORT1.png" group-title="SPORTS",MNC SPORT
 #https://cdn-livetv1.metube.id/hls/mncsport_480/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h8c9YEh.png" group-title="SPORTS", Redbull TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/hP8DqFbM/redbul4.png" group-title="SPORTS", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",CHELSEA TV
 #http://185.63.254.79:4747/sports2020/chelseatv/chunks.m3u8?nimblesessionid=43867658&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIwIDM6MTE6MTAgQU0maGFzaF92YWx1ZT1JS1l5NURoZGhpK0svUWFBN0dhUHFRPT0mdmFsaWRtaW51dGVzPTI=
