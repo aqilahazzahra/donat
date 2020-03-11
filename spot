@@ -133,7 +133,9 @@ http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/798.ts
 #https://etslive-2-vidio-com.akamaized.net/exp=1583608542~acl=/hls-p/ingest_geo_6786_*/*~hmac=cd7f4e210a0b227c4fbee12dc8b6ff0ae9161b2b4ab64def610a4fea6b6dbf5a/hls-p/ingest_geo_6786_720p/index.m3u8
 #https://etslive-2-vidio-com.akamaized.net/exp=1583647388~acl=/hls-p/ingest_geo_6786_*/*~hmac=bf89894a6ec1e67a8f2e7f1d9bb54595e60ce501181901559f6cc00d2614939e/hls-p/ingest_geo_6786_720p/index.m3u8
 #https://etslive-2-vidio-com.akamaized.net/exp=1583662594~acl=/hls-b/ingest_geo_6786_*/*~hmac=81e0146b86421d53a68469475bbd349bdebee9901ffac564a9dbefbf3cb50b52/hls-b/ingest_geo_6786_720p/index.m3u8
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/922..ts
+#http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/922..ts
+https://etslive-2-vidio-com.akamaized.net/exp=1583945990~acl=/hls-p/ingest_geo_6786_*/*~hmac=0a63cd670ab47dad2ddd4f0ba6dbac37542c4919e4532297e6f15a89cb93e003/hls-p/ingest_geo_6786_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXmkn4dF/NBC4.png" group-title="SPORTS",NBCSN SPORT
 http://run.iptv.cab:80/live/rizal1978/234234riz/8129.ts
 #http://ok2.se:8000/vmqZGRlWAj/0QqZo1i0q4/170
