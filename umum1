@@ -26,10 +26,10 @@ https://delivery.macan.live/stream/warnertv/index.m3u8?token=7ksfQPUe&v=20200308
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNJJ4Cnh/my4.png" group-title="Movies",MY CINEMA 
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5pPkSbJ/tvn4.png" group-title="Movies",TVN
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/813.ts
+#http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/813.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvTKmYz2/tvnm4.png" group-title="Movies",TVN MOVIES
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/416.ts
+#http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/416.ts
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jqgvNTpT/cin4y.png" group-title="Movies",Cinema Indonesia
 http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
