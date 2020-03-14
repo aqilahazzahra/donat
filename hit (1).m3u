@@ -1,0 +1,81 @@
+#EXTM3U url-tvg="http://iptvhit.live/zalogitv/epg/test/1234"
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="",hbo
+
+http://iptvhit.live/zalogitv/test/1234/1
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",hbo fam
+
+http://iptvhit.live/zalogitv/test/1234/2
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",hbo hits
+
+http://iptvhit.live/zalogitv/test/1234/3
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",hbosign
+
+http://iptvhit.live/zalogitv/test/1234/4
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",redhbo
+
+http://iptvhit.live/zalogitv/test/1234/5
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",cinemax
+
+http://iptvhit.live/zalogitv/test/1234/6
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",foxprem
+
+http://iptvhit.live/zalogitv/test/1234/7
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",foxact
+
+http://iptvhit.live/zalogitv/test/1234/8
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",foxfam
+
+http://iptvhit.live/zalogitv/test/1234/9
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",cinemax
+
+http://iptvhit.live/zalogitv/test/1234/10
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",warnertv
+
+http://iptvhit.live/zalogitv/test/1234/11
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",tvn
+
+http://iptvhit.live/zalogitv/test/1234/12
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",tvnmov
+
+http://iptvhit.live/zalogitv/test/1234/13
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",thril
+
+http://iptvhit.live/zalogitv/test/1234/14
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",flik
+
+http://iptvhit.live/zalogitv/test/1234/16
+
+
+#EXTINF:-1 tvg-name="NULL" tvg-logo="https://iptvhit.live/logo.png",sony1
+
+http://iptvhit.live/zalogitv/test/1234/17
