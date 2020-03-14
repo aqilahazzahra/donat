@@ -1,5 +1,5 @@
 #extm3u
-#EXTINF:-1 tvg-ID="FOXMoviesPremium.id" group-title="Movies" tvg-logo="https://i.postimg.cc/4NcTQMsr/foxM4.png", FOX Movies Premium
+#EXTINF:-1 tvg-ID="FOXMoviesPremium.id" group-title="Movies" tvg-logo="https://i.postimg.cc/4NcTQMsr/foxM4.png", FOX Movies PremiumX
 http://iptvhit.live/zalogitv/test/1234/7
 #EXTINF:-1 tvg-ID="FOXActionMovies.id" group-title="Movies" tvg-logo="https://i.postimg.cc/T3qMZDy0/foxact4.png", FOX Action Movies
 http://iptvhit.live/zalogitv/test/1234/8
