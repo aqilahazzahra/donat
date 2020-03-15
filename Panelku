@@ -22,3 +22,21 @@ http://iptvhit.live/zalogitv/test/1234/9
 http://iptvhit.live/zalogitv/test/1234/18
 
 
+
+##############sport#########################
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="SPORTS",Champion TV 1
+http://iptvhit.live/zalogitv/test/1234/25
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 2
+http://iptvhit.live/zalogitv/test/1234/26
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="SPORTS",Champion TV 3
+http://iptvhit.live/zalogitv/test/1234/27
+
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 1" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASTRO SUPERSPORT 1
+http://iptvhit.live/zalogitv/test/1234/23
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 2" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASTRO SUPERSPORT 2
+http://iptvhit.live/zalogitv/test/1234/24
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 3" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASTRO SUPERSPORT 3
+http://iptvhit.live/zalogitv/test/1234/25
+#EXTINF:-1 tvg-ID="" tvg-name="ASSP 4" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASTRO SUPERSPORT 4
+http://iptvhit.live/zalogitv/test/1234/26
