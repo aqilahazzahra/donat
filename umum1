@@ -1,28 +1,38 @@
 #extm3u
 #EXTINF:-1 tvg-ID="FOXMoviesPremium.id" group-title="Movies" tvg-logo="https://i.postimg.cc/4NcTQMsr/foxM4.png", FOX Movies PremiumX
-http://iptvhit.live/zalogitv/test/1234/7
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#http://iptvhit.live/zalogitv/test/1234/7
 #EXTINF:-1 tvg-ID="FOXActionMovies.id" group-title="Movies" tvg-logo="https://i.postimg.cc/T3qMZDy0/foxact4.png", FOX Action Movies
-http://iptvhit.live/zalogitv/test/1234/8
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+#http://iptvhit.live/zalogitv/test/1234/8
 #EXTINF:-1 tvg-ID="FOXFamilyMovies.id" group-title="Movies" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png", FOX Family Movies
-http://iptvhit.live/zalogitv/test/1234/9
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#http://iptvhit.live/zalogitv/test/1234/9
 #EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png", HBO
-http://iptvhit.live/zalogitv/test/1234/1
+https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
+#http://iptvhit.live/zalogitv/test/1234/1
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="Movies" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png", HBO Family
-http://iptvhit.live/zalogitv/test/1234/2
+http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+#http://iptvhit.live/zalogitv/test/1234/2
 #EXTINF:-1 tvg-ID="HBOHits.id" group-title="Movies" tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png", HBO Hits
-http://iptvhit.live/zalogitv/test/1234/3
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
+#http://iptvhit.live/zalogitv/test/1234/3
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="Movies" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png", HBO Signature
-http://iptvhit.live/zalogitv/test/1234/4
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+#http://iptvhit.live/zalogitv/test/1234/4
 #EXTINF:-1 tvg-ID="RED.id" group-title="Movies" tvg-logo="https://macan.live/img/red_hbo.png", RED by HBO
-http://iptvhit.live/zalogitv/test/1234/5
+#http://iptvhit.live/zalogitv/test/1234/5
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="Movies" tvg-logo="https://i.postimg.cc/vH317ch1/CMAX4.png", Cinemax by HBO
-http://iptvhit.live/zalogitv/test/1234/10
+https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
+#http://iptvhit.live/zalogitv/test/1234/10
 #EXTINF:-1 tvg-ID="Flik" group-title="Entertainment" tvg-logo="https://i.postimg.cc/BvgMXGp5/zalogitv.png", Flik
-http://iptvhit.live/zalogitv/test/1234/16
+#http://iptvhit.live/zalogitv/test/1234/16
 #EXTINF:-1 tvg-ID="Thrill.id" group-title="Movies" tvg-logo="https://i.postimg.cc/nzD70pzy/TH4.png", Thrill
-http://iptvhit.live/zalogitv/test/1234/14
+http://45.126.83.51/qwr9ew/s/s34/01.m3u8
+#ttp://iptvhit.live/zalogitv/test/1234/14
 #EXTINF:-1 tvg-ID="WarnerTV.id" group-title="Movies" tvg-logo="https://macan.live/img/warnertv.png", Warner TV
-http://iptvhit.live/zalogitv/test/1234/11
+http://192.200.120.82:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#http://iptvhit.live/zalogitv/test/1234/11
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNJJ4Cnh/my4.png" group-title="Movies",MY CINEMA 
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/jqgvNTpT/cin4y.png" group-title="Movies",Cinema Indonesia
