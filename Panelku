@@ -1,4 +1,8 @@
 #Extm3u
+#EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png", TESTER
+http://198.147.24.66:25461/live/AiiCisrHb8/33vsWtaChH/57.m3u8?token=HhBZURFYRgkQBgRXUwsFDQsAAwVcUgMAAA8IVgYFVgZWUAUFAVZVAQcQHUMVTBFcWFxoCl1HDQ1RFBIXRFEUbAxWEwpAAl0RHhBFCAtdQQMJHRUTUAEVAkQKA1IBDEQfR1dJRAdCClJebVUEEFEAXBsLWRZVCRsaCVZvBlJZB10BEAsSUxJIEVtBQUNcVhZVVR0VAVARRVkSXRJYFQVeB1cQHRIBXxFdRkBIQ1waNmobHRUGQRFSVhVRXwwVDkReVkcJEk4SDUBtQFQSEkoGWFRURUEDRwcaShpdA09rBVwLXFRTFlkLXUEQC0NWGk8bVF5ZCk0KRWcWUVRADRZXAlEAABIf
+#EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png", TESTER2
+https://dl.dropboxusercontent.com/s/wfh6jphfd9swryb/spanyol.m3u8?dl=0
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png", HBO
 http://iptvhit.live/zalogitv/test/1234/1
