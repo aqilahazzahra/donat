@@ -24,6 +24,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1584275178~acl=/hls-b/ingest_105_*
 #https://etslive-2-vidio-com.akamaized.net/exp=1583587627~acl=/hls-b/ingest_102_*/*~hmac=cf2e7f4734d8ef8bf09d09631f64083e102dc7991011ef5cb023c9ea0d8301ba/hls-b/ingest_102_720p/index.m3u8
 #https://etslive-2-vidio-com.akamaized.net/exp=1583678771~acl=/hls-p/ingest_6588_*/*~hmac=f5e5415b2c666628449c89008cb647072898e62d9f786933999b3ab31e0b2a5b/hls-p/ingest_6588_720p/index.m3u8
 #http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/621.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1584275290~acl=/hls-p/ingest_6588_*/*~hmac=632c63a8a8d0a20133c3b74cabdb3304a7737c8425959dcde75e46e570e5d961/hls-p/ingest_6588_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="ASSP 1" tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="SPORTS",ASTRO SUPERSPORT 1
