@@ -12,7 +12,7 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
 #http://iptvhit.live/zalogitv/test/1234/1
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="Movies" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png", HBO Family
-http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 #http://iptvhit.live/zalogitv/test/1234/2
 #EXTINF:-1 tvg-ID="HBOHits.id" group-title="Movies" tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png", HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
