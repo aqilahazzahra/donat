@@ -6,11 +6,6 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Lh4kr38Y/MNC-SPORT2.png" group-title="SPORTS",MNC SPORT 2
 #https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/brt1HLzQ/ttvri44.png" group-title="SPORTS",TVRI SPORT+
-#88.ts
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/brt1HLzQ/ttvri44.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nt2GGS9/shopee4.png" group-title="SPORTS",LIGA SHOPEE 1
