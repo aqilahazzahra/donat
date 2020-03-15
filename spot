@@ -16,7 +16,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nt2GGS9/shopee4.png" group-title="SPORTS",LIGA SHOPEE 1
 #https://etslive-2-vidio-com.akamaized.net/exp=1583587706~acl=/hls-p/ingest_6589_*/*~hmac=809e85423641e527eb6be5ba98a6f558e0c8e3c303b38cf172700f000152143f/hls-p/ingest_6589_720p/index.m3u8
 #https://etslive-2-vidio-com.akamaized.net/exp=1583669233~acl=/hls-p/ingest_6588_*/*~hmac=23a131dd4743fdc02714d693c2123eaa2dae337fb185e7cfb75377df29de750f/hls-p/ingest_6588_720p/index.m3u8
-https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=cl1FkPRx&v=20200308
+#https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=cl1FkPRx&v=20200308
+https://etslive-2-vidio-com.akamaized.net/exp=1584275178~acl=/hls-b/ingest_105_*/*~hmac=c7351b910003e3686dfea0a9663601f237daf229b278609720fb7c036bbd1823/hls-b/ingest_105_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nt2GGS9/shopee4.png" group-title="SPORTS",LIGA SHOPEE 2
