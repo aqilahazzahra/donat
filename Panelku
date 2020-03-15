@@ -18,4 +18,7 @@ http://iptvhit.live/zalogitv/test/1234/7
 http://iptvhit.live/zalogitv/test/1234/8
 #EXTINF:-1 tvg-ID="FOXFamilyMovies.id" group-title="Movies" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png", FOX Family Movies
 http://iptvhit.live/zalogitv/test/1234/9
+#EXTINF:-1 tvg-ID="FOXFamilyMovies.id" group-title="Movies" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png", FOX Family Movies
+http://iptvhit.live/zalogitv/test/1234/18
+
 
