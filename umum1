@@ -179,7 +179,9 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH5mTzgp/aliman4.png" group-title="Religious",Al-Iman TV
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P54rz5My/rodja4.png" group-title="Religious",Rodja TV
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+http://rr2.dens.tv/s/s14/index1.m3u8
+
+#http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5jdDD8fz/ashil4.png" group-title="Religious",Ashiil TV
 #http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/1RnXhP9R/tvm4.png" group-title="Religious",TVMU
