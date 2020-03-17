@@ -38,13 +38,13 @@ http://iptvhit.live/zalogitv/test/1234/32
 #EXTINF:-1 tvg-ID="FX.id" group-title="Entertainment" tvg-logo="https://i.postimg.cc/8kLP4jpp/FX4.png", FX G
 http://iptvhit.live/zalogitv/test/1234/33
 #EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png", HBO G
-http://iptvhit.live/zalogitv/test/1234/34
+https://iptvhit.live/zalogitv/test/1234/34
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="Movies" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png", HBO Family G
-http://iptvhit.live/zalogitv/test/1234/35
+https://iptvhit.live/zalogitv/test/1234/35
 #EXTINF:-1 tvg-ID="HBOHits.id" group-title="Movies" tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png", HBO Hits G
 http://iptvhit.live/zalogitv/test/1234/36
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="Movies" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png", HBO Signature G
-http://iptvhit.live/zalogitv/test/1234/37
+https://iptvhit.live/zalogitv/test/1234/37
 #EXTINF:-1 tvg-ID="RED.id" group-title="Movies" tvg-logo="https://macan.live/img/red_hbo.png", RED by HBO G
 http://iptvhit.live/zalogitv/test/1234/38
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="Movies" tvg-logo="https://i.postimg.cc/vH317ch1/CMAX4.png", Cinemax by HBO G
