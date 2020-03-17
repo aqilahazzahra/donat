@@ -1,9 +1,9 @@
 #Extm3u
 #EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png", TESTER macan
-https://dl.dropboxusercontent.com/s/5tvzui0d1xsh4tw/netiptv.m3u8?dl=0
+#https://dl.dropboxusercontent.com/s/5tvzui0d1xsh4tw/netiptv.m3u8?dl=0
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png", TESTER2 iptvhit
-https://dl.dropboxusercontent.com/s/m2pnlfvh1oauz7n/hbozalogi2iptvhit.m3u8?dl=0
+#https://dl.dropboxusercontent.com/s/m2pnlfvh1oauz7n/hbozalogi2iptvhit.m3u8?dl=0
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png", HBO
 http://iptvhit.live/zalogitv/test/1234/1
