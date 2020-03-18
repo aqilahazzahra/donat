@@ -6,23 +6,23 @@
 #https://dl.dropboxusercontent.com/s/m2pnlfvh1oauz7n/hbozalogi2iptvhit.m3u8?dl=0
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png", HBO
-https://iptvhit.live/zalogitv/test/1234/1
+#https://iptvhit.live/zalogitv/test/1234/1
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="Movies" tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png", HBO Family
-https://iptvhit.live/zalogitv/test/1234/2
+#https://iptvhit.live/zalogitv/test/1234/2
 #EXTINF:-1 tvg-ID="HBOHits.id" group-title="Movies" tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png", HBO Hits
-https://iptvhit.live/zalogitv/test/1234/3
+#https://iptvhit.live/zalogitv/test/1234/3
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="Movies" tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png", HBO Signature
-https://iptvhit.live/zalogitv/test/1234/4
+#https://iptvhit.live/zalogitv/test/1234/4
 #EXTINF:-1 tvg-ID="RED.id" group-title="Movies" tvg-logo="https://macan.live/img/red_hbo.png", RED by HBO
-https://iptvhit.live/zalogitv/test/1234/5
+#https://iptvhit.live/zalogitv/test/1234/5
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="Movies" tvg-logo="https://i.postimg.cc/vH317ch1/CMAX4.png", Cinemax by HBO
-http://iptvhit.live/zalogitv/test/1234/6
+#http://iptvhit.live/zalogitv/test/1234/6
 #EXTINF:-1 tvg-ID="FOXMoviesPremium.id" group-title="Movies" tvg-logo="https://i.postimg.cc/4NcTQMsr/foxM4.png", FOX Movies Premium
-http://iptvhit.live/zalogitv/test/1234/7
+#http://iptvhit.live/zalogitv/test/1234/7
 #EXTINF:-1 tvg-ID="FOXActionMovies.id" group-title="Movies" tvg-logo="https://i.postimg.cc/T3qMZDy0/foxact4.png", FOX Action Movies
-http://iptvhit.live/zalogitv/test/1234/8
+#http://iptvhit.live/zalogitv/test/1234/8
 #EXTINF:-1 tvg-ID="FOXFamilyMovies.id" group-title="Movies" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png", FOX Family Movies
-http://iptvhit.live/zalogitv/test/1234/9
+#http://iptvhit.live/zalogitv/test/1234/9
 
 ########### ganteng
 #EXTINF:-1 tvg-ID="FoxLife.id" group-title="Entertainment" tvg-logo="https://i.postimg.cc/SNgSHk1j/FOXLIFE.png", FOX Life G
