@@ -8,7 +8,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1584891129~acl=/hls-p/ingest_6678_
 https://etslive-2-vidio-com.akamaized.net/exp=1584891197~acl=/hls-p/ingest_6711_*/*~hmac=02de0741c4cd29305142660e814dddeeabc1f6c5ec18b6d36d548898eecd712d/hls-p/ingest_6711_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5pPkSbJ/tvn4.png" group-title="VIDIO channel",TVN
-https://etslive-2-vidio-com.akamaized.net/exp=1584875908~acl=/hls-b/ingest_geo_6362_*/*~hmac=1bdd169b7cc0da94430cde15acffc14f20dbc5ecea46a12200b886eca81cdf1f/hls-b/ingest_geo_6362_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584892073~acl=/hls-p/ingest_geo_6362_*/*~hmac=138f70a4c175851e1fcef0fb595d27ddc92e3d16a114e4d3c505f1da8768d73e/hls-p/ingest_geo_6362_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SYD5whh/zb4.png" group-title="VIDIO channel",Zee Bioskop
 https://etslive-2-vidio-com.akamaized.net/exp=1584891351~acl=/hls-p/ingest_geo_6399_*/*~hmac=b2eb2d1efb9744a868afe75cf68e53640f56645a05272f8f0be28b0f1889a2f6/hls-p/ingest_geo_6399_720p/index.m3u8
@@ -29,7 +29,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1584891388~acl=/hls-p/ingest_geo_6
 https://etslive-2-vidio-com.akamaized.net/exp=1584891191~acl=/hls-p/ingest_geo_6550_*/*~hmac=827bb5682584d63a492a25c3c7089ae229dea3edab9cb67b8b00f0ddd0943c59/hls-p/ingest_geo_6550_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLfMJQVv/smoo.png" group-title="VIDIO channel",Zoomoo
-https://etslive-2-vidio-com.akamaized.net/exp=1584876462~acl=/hls-p/ingest_geo_6533_*/*~hmac=1301ef9dbe0779ce68cce40eb2d72516cb6f09308034e71071c0f7afd62aa755/hls-p/ingest_geo_6533_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584892212~acl=/hls-p/ingest_geo_6533_*/*~hmac=c7d54f4bc26abf2ac61f9a653379b6c45138924dc814337014bf0b1d986d7302/hls-p/ingest_geo_6533_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MT4yQg86/champ1.png" group-title="VIDIO channel",Champions TV 1
 https://etslive-2-vidio-com.akamaized.net/exp=1584891518~acl=/hls-p/ingest_geo_6685_*/*~hmac=ad450ef9855c4b2f4154abbcc7358a0d4a85a564425c2946452018a55827aa41/hls-p/ingest_geo_6685_720p/index.m3u8
