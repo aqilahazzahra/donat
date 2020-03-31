@@ -3,7 +3,7 @@
 https://etslive-2-vidio-com.akamaized.net/exp=1585681522~acl=/hls-p/ingest_geo_6684_*/*~hmac=6dd2eed029e4a4ad041608a217f4748adf3b0fdf6fc2a4d9db55036844adcb8b/hls-p/ingest_geo_6684_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2FPhtW4/cmus.png" group-title="VIDIO channel",Citra Muslim
 https://etslive-2-vidio-com.akamaized.net/exp=1585681556~acl=/hls-b/ingest_6678_*/*~hmac=aef9fa78096e0f5d208e9e092284a1cae214c5b342a63c29315d511a106fb4e3/hls-b/ingest_6678_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2XRVz9g/mytv.jpg" group-title="VIDIO channel",MYTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHmpRcRP/mytv.png" group-title="VIDIO channel",MYTV
 https://etslive-2-vidio-com.akamaized.net/exp=1585681580~acl=/hls-p/ingest_6711_*/*~hmac=2958439d55f4364469b6fe94aee73200ed87e5a68ab7abf4cfa05d1445f12c0c/hls-p/ingest_6711_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5pPkSbJ/tvn4.png" group-title="VIDIO channel",TVN
 https://etslive-2-vidio-com.akamaized.net/exp=1585681608~acl=/hls-b/ingest_geo_6362_*/*~hmac=fe123e336b6beaf2bbb841179f65c452c3a1c0fe4f5685445acd6379c238b3e8/hls-b/ingest_geo_6362_720p/index.m3u8
@@ -19,7 +19,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1585681714~acl=/hls-p/ingest_geo_6
 https://etslive-2-vidio-com.akamaized.net/exp=1585681734~acl=/hls-b/ingest_geo_6635_*/*~hmac=11ed53800634fbe8992270d285ef378bc4f21b98555895fa948b9da537021aae/hls-b/ingest_geo_6635_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLfMJQVv/smoo.png" group-title="VIDIO channel",Smith Sonian
 https://etslive-2-vidio-com.akamaized.net/exp=1585681755~acl=/hls-p/ingest_geo_6550_*/*~hmac=51c9d858dc5c4caefa3a00ae990b8e0ef81b5ae9fd0ff9dbf921d38de4ac9198/hls-p/ingest_geo_6550_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLfMJQVv/smoo.png" group-title="VIDIO channel",Zoomoo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jtYk89s/zoomoo.png" group-title="VIDIO channel",Zoomoo
 https://etslive-2-vidio-com.akamaized.net/exp=1585681776~acl=/hls-p/ingest_geo_6533_*/*~hmac=0f6c6f0f37902d66bf17bda7e085281704e03107a2000eda75edeb9267f2e61b/hls-p/ingest_geo_6533_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4XjbYkq/cdang.png" group-title="VIDIO channel",Citra Dangdut (Malaysia)
