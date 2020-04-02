@@ -1,8 +1,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26ZBvNZj/citra4.png" group-title="VIDIO channel",Citra Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1585852363~acl=/hls-p/ingest_geo_6684_*/*~hmac=b9676bcddf97a7113d7ef46eec49e766932707f61024c2ba593ac73c6b316bbc/hls-p/ingest_geo_6684_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585877676~acl=/hls-p/ingest_geo_6684_*/*~hmac=40b72291d60e04de262fbe8bb6b978f18b527fb76b8a5019d9f6d8cfd846cb4d/hls-p/ingest_geo_6684_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2FPhtW4/cmus.png" group-title="VIDIO channel",Citra Muslim
-https://etslive-2-vidio-com.akamaized.net/exp=1585852395~acl=/hls-p/ingest_6678_*/*~hmac=71da8a98adb8951c909f9eddf4fdceb6c9e3a8d52caafa525987a5490e8227a7/hls-p/ingest_6678_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585877676~acl=/hls-p/ingest_6678_*/*~hmac=ae5173b6b2a74741348311196cb7311587477a77b70a298ffc387f5958503fe4/hls-p/ingest_6678_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHmpRcRP/mytv.png" group-title="VIDIO channel",MYTV
 #https://etslive-2-vidio-com.akamaized.net/exp=1585838528~acl=/hls-p/ingest_6711_*/*~hmac=577d547ca11b2bbd2eed12d9195f63b785be19a25ff514af1ba5a4e8bfc1aa17/hls-p/ingest_6711_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5pPkSbJ/tvn4.png" group-title="VIDIO channel",TVN
@@ -18,16 +18,16 @@ https://etslive-2-vidio-com.akamaized.net/exp=1585852395~acl=/hls-p/ingest_6678_
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YS8cJpmy/love4nat.png" group-title="VIDIO channel",Love Nature
 #https://etslive-2-vidio-com.akamaized.net/exp=1585838564~acl=/hls-b/ingest_geo_6635_*/*~hmac=4d9340f6b7a25a29690c0bb346cd33595844ba290a3842d697bca84e5d5dd299/hls-b/ingest_geo_6635_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLfMJQVv/smoo.png" group-title="VIDIO channel",Smith Sonian
-https://etslive-2-vidio-com.akamaized.net/exp=1585852469~acl=/hls-p/ingest_geo_6550_*/*~hmac=ead17e2fc27e23a4dcacbacfe01b174e8959cb4d04c6ed4f515218a5b9afde1e/hls-p/ingest_geo_6550_720p/index.m3u8
+#https://etslive-2-vidio-com.akamaized.net/exp=1585852469~acl=/hls-p/ingest_geo_6550_*/*~hmac=ead17e2fc27e23a4dcacbacfe01b174e8959cb4d04c6ed4f515218a5b9afde1e/hls-p/ingest_geo_6550_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4XjbYkq/cdang.png" group-title="VIDIO channel",Citra Dangdut (Malaysia)
-https://etslive-2-vidio-com.akamaized.net/exp=1585852523~acl=/hls-p/ingest_6587_*/*~hmac=3c99033bed1f4742d4173ce38e9c72c241aba5947b77a2c4d09407de2697cbe3/hls-p/ingest_6587_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585877680~acl=/hls-p/ingest_6587_*/*~hmac=1e797780b7aff4f1edf0306449e661d7b99e28bfedf9984673c75efaf3f5d0d0/hls-p/ingest_6587_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3bg83zD/cdra.png" group-title="VIDIO channel",Citra Drama (Malaysia)
-https://etslive-2-vidio-com.akamaized.net/exp=1585852557~acl=/hls-b/ingest_6401_*/*~hmac=13865f599bce7dfc7dceca1f3250a37c47c940183f78f54ee3768674876f84c5/hls-b/ingest_6401_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585877681~acl=/hls-p/ingest_6401_*/*~hmac=ffd39758e44b07a2d6fa589242c81c085282c0c548ea2239ae58316167220c10/hls-p/ingest_6401_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90RvRZgv/center.png" group-title="VIDIO channel",Citra Entertaiment (Malaysia)
-https://etslive-2-vidio-com.akamaized.net/exp=1585852582~acl=/hls-p/ingest_6402_*/*~hmac=c8ae65b8537be111a908b3f3dd619aebf7217b4bbe41197f3fdb9df29c871638/hls-p/ingest_6402_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585877679~acl=/hls-p/ingest_6402_*/*~hmac=7480f6162ab8b9ba8acc8d4f1ed46f2a62c97f229f51fbb68cefc1e122c94f0b/hls-p/ingest_6402_720p/index.m3u8
 
 ########## FEED SPORT
 
@@ -53,7 +53,7 @@ https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w449622168_b1344100_sleng.
 
 https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1495705035_b1344100_sleng.m3u8?enc=ADoRyqm8-aGNyqycokU3HQ&exp=1584926475
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="FEED SPORTS",Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1585852519~acl=/hls-p/ingest_geo_6786_*/*~hmac=8cc521ac3646d69ef113048997aa1dced2f9415ba0962bc8a5df7ef9f28cdb0e/hls-p/ingest_geo_6786_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585877676~acl=/hls-p/ingest_geo_6786_*/*~hmac=5ce04a0fafdffcbd5d8b87613d862aef1b42f21422dfcc29691ad034b4d2ec36/hls-p/ingest_geo_6786_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="FEED SPORTS",FOX Sport 1
 https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w2036935208_b1344100_sleng.m3u8
