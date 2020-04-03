@@ -1,8 +1,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26ZBvNZj/citra4.png" group-title="VIDIO channel",Citra Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1585877676~acl=/hls-p/ingest_geo_6684_*/*~hmac=40b72291d60e04de262fbe8bb6b978f18b527fb76b8a5019d9f6d8cfd846cb4d/hls-p/ingest_geo_6684_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585892491~acl=/hls-p/ingest_geo_6684_*/*~hmac=f055a698cbdfcaf0886e1d8eac0d15013957231e6609becf26a43a81f3e061fb/hls-p/ingest_geo_6684_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2FPhtW4/cmus.png" group-title="VIDIO channel",Citra Muslim
-https://etslive-2-vidio-com.akamaized.net/exp=1585877676~acl=/hls-p/ingest_6678_*/*~hmac=ae5173b6b2a74741348311196cb7311587477a77b70a298ffc387f5958503fe4/hls-p/ingest_6678_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585892504~acl=/hls-p/ingest_6678_*/*~hmac=01b37bc09ee7a2a47f835ee4ca94238e2bd7d71d98f58e07d5c995904c54964d/hls-p/ingest_6678_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHmpRcRP/mytv.png" group-title="VIDIO channel",MYTV
 #https://etslive-2-vidio-com.akamaized.net/exp=1585838528~acl=/hls-p/ingest_6711_*/*~hmac=577d547ca11b2bbd2eed12d9195f63b785be19a25ff514af1ba5a4e8bfc1aa17/hls-p/ingest_6711_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5pPkSbJ/tvn4.png" group-title="VIDIO channel",TVN
@@ -21,13 +21,13 @@ https://etslive-2-vidio-com.akamaized.net/exp=1585877676~acl=/hls-p/ingest_6678_
 #https://etslive-2-vidio-com.akamaized.net/exp=1585852469~acl=/hls-p/ingest_geo_6550_*/*~hmac=ead17e2fc27e23a4dcacbacfe01b174e8959cb4d04c6ed4f515218a5b9afde1e/hls-p/ingest_geo_6550_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4XjbYkq/cdang.png" group-title="VIDIO channel",Citra Dangdut (Malaysia)
-https://etslive-2-vidio-com.akamaized.net/exp=1585877680~acl=/hls-p/ingest_6587_*/*~hmac=1e797780b7aff4f1edf0306449e661d7b99e28bfedf9984673c75efaf3f5d0d0/hls-p/ingest_6587_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585892503~acl=/hls-p/ingest_6587_*/*~hmac=2d5688678de0aa10fd0d3a590f3ba11031000e52cb59c43e826bb048642dfd51/hls-p/ingest_6587_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3bg83zD/cdra.png" group-title="VIDIO channel",Citra Drama (Malaysia)
-https://etslive-2-vidio-com.akamaized.net/exp=1585877681~acl=/hls-p/ingest_6401_*/*~hmac=ffd39758e44b07a2d6fa589242c81c085282c0c548ea2239ae58316167220c10/hls-p/ingest_6401_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585892532~acl=/hls-p/ingest_6401_*/*~hmac=dae27df138757aa13caefd9e1da428c7e3978a3cd39c56cf30afae5213f25ff9/hls-p/ingest_6401_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90RvRZgv/center.png" group-title="VIDIO channel",Citra Entertaiment (Malaysia)
-https://etslive-2-vidio-com.akamaized.net/exp=1585877679~acl=/hls-p/ingest_6402_*/*~hmac=7480f6162ab8b9ba8acc8d4f1ed46f2a62c97f229f51fbb68cefc1e122c94f0b/hls-p/ingest_6402_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585892500~acl=/hls-p/ingest_6402_*/*~hmac=fa41cd536a28c250fb91a927bef5325701ad433519e402d4dac5ea06c092184d/hls-p/ingest_6402_720p/index.m3u8
 
 ########## FEED SPORT
 
@@ -53,7 +53,7 @@ https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w449622168_b1344100_sleng.
 
 https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1495705035_b1344100_sleng.m3u8?enc=ADoRyqm8-aGNyqycokU3HQ&exp=1584926475
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRgsg4SD/champ2.png" group-title="FEED SPORTS",Champions TV 3
-https://etslive-2-vidio-com.akamaized.net/exp=1585877676~acl=/hls-p/ingest_geo_6786_*/*~hmac=5ce04a0fafdffcbd5d8b87613d862aef1b42f21422dfcc29691ad034b4d2ec36/hls-p/ingest_geo_6786_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585892491~acl=/hls-p/ingest_geo_6786_*/*~hmac=82b05ee7e9c0605afb06ddc394369ad8b552fbb2f1b47f01b07974ff21c2f826/hls-p/ingest_geo_6786_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="FEED SPORTS",FOX Sport 1
 https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w2036935208_b1344100_sleng.m3u8
