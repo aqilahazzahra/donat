@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26ZBvNZj/citra4.png" group-title="VIDIO channel",Citra Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=2072924693~acl=/hls-p/ingest_998_*/*~hmac=68ccfd84bc7dbadc391a4c183f07bb0ebead75dbf5f7029a3154dbba53895b74/hls-p/ingest_998_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585926257~acl=/hls-p/ingest_geo_6684_*/*~hmac=528c431f6eac4d076d27a337eaff349713418c73945697080ef9ee39d599710c/hls-p/ingest_geo_6684_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2FPhtW4/cmus.png" group-title="VIDIO channel",Citra Muslim
 https://etslive-2-vidio-com.akamaized.net/exp=1585924384~acl=/hls-b/ingest_6678_*/*~hmac=f1cbcb3ba219f98974a87474b9b9e129579de2d86ff0bfa0fd001e6ea84b6e17/hls-b/ingest_6678_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHmpRcRP/mytv.png" group-title="VIDIO channel",MYTV
