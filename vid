@@ -1,14 +1,14 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26ZBvNZj/citra4.png" group-title="VIDIO channel",Citra Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1586197062~acl=/hls-p/ingest_geo_6684_*/*~hmac=669d1a38b2a6237ef3c4911d112bf777e282db96de58b525cef43e003928fd06/hls-p/ingest_geo_6684_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1586207336~acl=/hls-p/ingest_geo_6684_*/*~hmac=57bdba90e3c4b48ed463d731bb44505130515b191f6a6ab3e81290d5f57d7afd/hls-p/ingest_geo_6684_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2FPhtW4/cmus.png" group-title="VIDIO channel",Citra Muslim
-https://etslive-2-vidio-com.akamaized.net/exp=1586197023~acl=/hls-p/ingest_6678_*/*~hmac=f168d851c6ae9ef7c4763f557b203a9a1b56d7972a1218393fc852d9a636b01e/hls-p/ingest_6678_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1586207375~acl=/hls-p/ingest_6678_*/*~hmac=6844d954977d7528ad743573bf3b4f0bf8a2d77884c3be2b56e8cc71f99f60fa/hls-p/ingest_6678_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4XjbYkq/cdang.png" group-title="VIDIO channel",Citra Dangdut (Mal)
-https://etslive-2-vidio-com.akamaized.net/exp=1586197196~acl=/hls-p/ingest_6587_*/*~hmac=5b5a077d82dec14362a7bba4d6bcebff234bf2a3861d247ab53081ee005d57e0/hls-p/ingest_6587_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1586207391~acl=/hls-p/ingest_6587_*/*~hmac=342e2990629e57a0b8ae23f1da51c0badd8b9add58b8ec46cfe64ee6d52f0e93/hls-p/ingest_6587_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3bg83zD/cdra.png" group-title="VIDIO channel",Citra Drama (Mal)
-https://etslive-2-vidio-com.akamaized.net/exp=1586197196~acl=/hls-p/ingest_6401_*/*~hmac=84fc44d736956c2e002b1d7e988b4ff87b944e1ade4f88f33806db0d1d2c8513/hls-p/ingest_6401_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1586207415~acl=/hls-p/ingest_6401_*/*~hmac=eb389c32887bcdefe6fecd1f2f988fe5290cb8723f482014acb491cc2e3414ea/hls-p/ingest_6401_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90RvRZgv/center.png" group-title="VIDIO channel",Citra ENTERTAINMENT (Mal)
-https://etslive-2-vidio-com.akamaized.net/exp=1586196941~acl=/hls-p/ingest_6402_*/*~hmac=874349cc60148b302291ef38843ac7de2087b2893f26c9171b0f5a4170825198/hls-p/ingest_6402_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1586207433~acl=/hls-p/ingest_6402_*/*~hmac=25081616166ed1b1e1dad6c94b04884e7a30acd7cea0407b9317029bcc7a81c6/hls-p/ingest_6402_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MHmpRcRP/mytv.png" group-title="VIDIO channel",MYTV
 https://etslive-2-vidio-com.akamaized.net/exp=1586197194~acl=/hls-p/ingest_6711_*/*~hmac=9b375e30a38ed5a0c5ca756bef34837029b06d5dafaf25cc803b916c56073250/hls-p/ingest_6711_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j5pPkSbJ/tvn4.png" group-title="VIDIO channel",TVN
