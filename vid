@@ -1,63 +1,64 @@
+################ VIDIO CITRA #########################
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/citra-bioskop-2be866.png" group-title="VIDIO channel",Citra Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1589349909~acl=/hls-p/ingest_geo_6684_*/*~hmac=5eb9f5a09c9fb7af8627b4c7fc35fa15c49232ffa000a3fecaea38d455fbbc2e/hls-p/ingest_geo_6684_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362786~acl=/hls-p/ingest_geo_6684_*/*~hmac=3b5f252df0140405d0c1e981d1c028b9fd99ebd4252c88ba16922ba346cb159a/hls-p/ingest_geo_6684_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/citra-muslim-68ac64.png" group-title="VIDIO channel",Citra Muslim
-https://etslive-2-vidio-com.akamaized.net/exp=1589349957~acl=/hls-p/ingest_6678_*/*~hmac=77d5e2c707459926566370d2b9f9631e512f7dc184ac9db43e4772652955ed28/hls-p/ingest_6678_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362812~acl=/hls-p/ingest_6678_*/*~hmac=9793ef8f7cdc7ffdb1c0ca1f2a37cdd8b11d8df7a22ee5894843269550a6934c/hls-p/ingest_6678_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/citra-dangdut-0ed971.jpg" group-title="VIDIO channel",Citra Dangdut
-https://etslive-2-vidio-com.akamaized.net/exp=1589349900~acl=/hls-p/ingest_6587_*/*~hmac=6c26e1f18017e2e40623d73626c2a2663601fa637d4cff74797262c13c940e5a/hls-p/ingest_6587_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362845~acl=/hls-p/ingest_6587_*/*~hmac=5d891468973671e8e5f7a52349e2b4bd824c1e5152c24c6adfc95c3890dc656f/hls-p/ingest_6587_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/citra-drama-d931f4.jpg" group-title="VIDIO channel",Citra Drama
-https://etslive-2-vidio-com.akamaized.net/exp=1589349999~acl=/hls-p/ingest_6401_*/*~hmac=870bdff9f725262529f9c461d8b30e428c87dfe0f7f57dbd33adee9dd2eafbe1/hls-p/ingest_6401_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362872~acl=/hls-p/ingest_6401_*/*~hmac=658abe3b6e094920297a49ca30c403b727902704e72c521d0767724591edae74/hls-p/ingest_6401_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/citra-entertainment-271b80.png" group-title="VIDIO channel",Citra Entertainment
-https://etslive-2-vidio-com.akamaized.net/exp=1589350021~acl=/hls-b/ingest_6402_*/*~hmac=92bbaf922d2fb6f914a735758d2c6334c6a6608f3ad9e06aa79dd106e3e33d82/hls-b/ingest_6402_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362895~acl=/hls-p/ingest_6402_*/*~hmac=a9c4729b6ee5d4b05613569e7cbd33b9faef4708069a8f265b6eac5d40e3c064/hls-p/ingest_6402_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/mytv-tv-stream-a36d9f.png" group-title="VIDIO channel",MYTV
-https://etslive-2-vidio-com.akamaized.net/exp=1589350054~acl=/hls-p/ingest_6711_*/*~hmac=2cbfc66972c3dfaf8fbcf4996e6d81a8859418436c66da2456b9daca1414eadf/hls-p/ingest_6711_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362893~acl=/hls-p/ingest_6711_*/*~hmac=b72b99a80209442240d50627f43cb5a4d2b7ab6673c3ddc618a7f1cf4159a127/hls-p/ingest_6711_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/tv-edukasi-1c7fd8.png" group-title="VIDIO channel",Tv Edukasi
-https://etslive-2-vidio-com.akamaized.net/exp=1589350050~acl=/hls-p/ingest_6838_*/*~hmac=8ac7d1b95a21ee3ac1e4a97626eeaab955ba6b0819f615e66f891c840f436905/hls-p/ingest_6838_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362901~acl=/hls-p/ingest_6838_*/*~hmac=05e8d6dce40de6aeb20aa0615869434e6ffa524d760e5a112c5c5da1ea0e385c/hls-p/ingest_6838_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/u-channel-tv-cd4f34.png" group-title="VIDIO channel",U Channel Tv
-https://etslive-2-vidio-com.akamaized.net/exp=1589349913~acl=/hls-p/ingest_6898_*/*~hmac=0cb95c7440fe8b39b2392c626b7879cc385ad6196bd4723dcbd8111ad1fa1364/hls-p/ingest_6898_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362897~acl=/hls-p/ingest_6898_*/*~hmac=09fbc0dfd20323164bf1f28537d46fe535478082b683e38b5406ecc5972e5657/hls-p/ingest_6898_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/aljazeera-39130f.png" group-title="VIDIO channel",Al Jazeera
-https://etslive-2-vidio-com.akamaized.net/exp=1589349909~acl=/hls-b/ingest_geo_6410_*/*~hmac=03dcc329df9222c1ffe0a10e7e9ed9d904cf6005eb95a05eecd59c6ed3d4455a/hls-b/ingest_geo_6410_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362895~acl=/hls-p/ingest_geo_6410_*/*~hmac=8b929356d4e8e070ea12f1245b5e6ecd0a64cd0da318e3f16895c5ecd6ddc984/hls-p/ingest_geo_6410_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/al-quran-al-kareem-tv-62095c.png" group-title="VIDIO channel",Al Kareem Tv
-https://etslive-2-vidio-com.akamaized.net/exp=1589350054~acl=/hls-p/ingest_6852_*/*~hmac=d71903c1932d1b5a11e4f5a7a7d3379f2b526d1f3118c9e717f1d802f9f0de56/hls-p/ingest_6852_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362875~acl=/hls-p/ingest_6852_*/*~hmac=5c4433d359f743008ed68414b991875d6f07ce0790ad5456fba781662e66ecc5/hls-p/ingest_6852_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/arirang-c78e38.png" group-title="VIDIO channel",Arirang
-https://etslive-2-vidio-com.akamaized.net/exp=1589350047~acl=/hls-p/ingest_geo_6784_*/*~hmac=43188f54ffb9458431aa137cb32b23ce098435cb87c460b02187960b4a624dea/hls-p/ingest_geo_6784_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362871~acl=/hls-p/ingest_geo_6784_*/*~hmac=f885529d346a1a4d9e5d0ccfcf8f279215b85dfee77b96f86dc04b2317698b68/hls-p/ingest_geo_6784_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/news-asia-632248.png" group-title="VIDIO channel",CNA
-https://etslive-2-vidio-com.akamaized.net/exp=1589349898~acl=/hls-p/ingest_geo_6411_*/*~hmac=c2446e0375040b02eef2d1859f519de82945af7917388023c432934cff5cc788/hls-p/ingest_geo_6411_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362871~acl=/hls-p/ingest_geo_6411_*/*~hmac=e5b1a222e982e9a0412571f919eb7a9b826e001fd3e97aa342ae9017936b819b/hls-p/ingest_geo_6411_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/dw-english-tv-stream-724fc3.jpg" group-title="VIDIO channel",DW English
-https://etslive-2-vidio-com.akamaized.net/exp=1589350054~acl=/hls-p/ingest_5075_*/*~hmac=38f100efead5ee0082f98c68e638787bfdbf1287fe6f9c0760c12b134e3c8a35/hls-p/ingest_5075_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362917~acl=/hls-p/ingest_5075_*/*~hmac=736bd7fbcc18eb41485461694b511ff5f091931b335ebf9795f5409e0bfc9202/hls-p/ingest_5075_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/euro-news-bb7a5d.jpg" group-title="VIDIO channel",Euro news
-https://etslive-2-vidio-com.akamaized.net/exp=1589350050~acl=/hls-b/ingest_geo_6412_*/*~hmac=6fb647058c3229a5c108a89288338b23a3b4d43d7822926419d76dfa901bbdc2/hls-b/ingest_geo_6412_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589362872~acl=/hls-p/ingest_geo_6412_*/*~hmac=31ba366b8d30fe0f6407fe8183703ab3f8a43269d2e4edd9a8052b8f241eb10a/hls-p/ingest_geo_6412_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/fashion-tv-global-c60fdc.png" group-title="VIDIO channel",Fashion TV Original
 https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/fashion-tv-midnight-secrets-410bd7.png" group-title="VIDIO channel",Fashion Tv Midnight
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/love-nature-29f1c8.png" group-title="VIDIO channel",Love Nature
-https://etslive-2-vidio-com.akamaized.net/exp=1589350285~acl=/hls-p/ingest_geo_6635_*/*~hmac=75d0f8b5cd81e87031161380df9094834fd044254ec91de4498e5c3c447a6ad7/hls-p/ingest_geo_6635_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363158~acl=/hls-p/ingest_geo_6635_*/*~hmac=dbe5f305fc48b9cfba6b6615c5dad691c1922a01c5619065c9017ab8e4667b5f/hls-p/ingest_geo_6635_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/reformed-21-tv-4823b3.png" group-title="VIDIO channel",Reformed 21
-https://etslive-2-vidio-com.akamaized.net/exp=1589350297~acl=/hls-p/ingest_6853_*/*~hmac=fa1d6917923d4b7e14ddde9463771a7efcdddbde6ab788cee424593703c93c42/hls-p/ingest_6853_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363182~acl=/hls-p/ingest_6853_*/*~hmac=50752159e188fdc7661fc05edb76f5fe323cf952f025ef9394d80c36c3bb2620/hls-p/ingest_6853_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/smithsonian-7073ec.png" group-title="VIDIO channel",Smith Sonian
-https://etslive-2-vidio-com.akamaized.net/exp=1589350289~acl=/hls-p/ingest_geo_6550_*/*~hmac=4d8a295f4bedc25bdc94cce726a2753b5c7322df98f1a8ccb855361015ae457f/hls-p/ingest_geo_6550_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363208~acl=/hls-p/ingest_geo_6550_*/*~hmac=2358e410364987ebfc82118faed16f19d5a1927bd4442fc4317964229a6acdc1/hls-p/ingest_geo_6550_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/tvn-e11bc8.png" group-title="VIDIO channel",TVN
-https://etslive-2-vidio-com.akamaized.net/exp=1589350287~acl=/hls-p/ingest_geo_6362_*/*~hmac=7d91119fe093aabc057fd54c7dc59601cc0e12f279341e2d8b0b898d6371a3c7/hls-p/ingest_geo_6362_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363250~acl=/hls-b/ingest_geo_6362_*/*~hmac=b9a51bfe0c87333b1d0aa95f8f343626b39e73574f86fc1f9053ba78c6c43e86/hls-b/ingest_geo_6362_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/zee-bioskop-bdb0e4.png" group-title="VIDIO channel",Zee Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1589350289~acl=/hls-p/ingest_geo_6399_*/*~hmac=17fbbd1455f811c6b32ce6b3d5c34694e12471f0d3cfde6f3d5f3deda4e6d2ae/hls-p/ingest_geo_6399_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363286~acl=/hls-p/ingest_geo_6399_*/*~hmac=8df9fae444761d28dd476d3e1193de938e1a56808aad873b3c1ef75ef5c0f91b/hls-p/ingest_geo_6399_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/zing-74f73f.png" group-title="VIDIO channel",Zing
-https://etslive-2-vidio-com.akamaized.net/exp=1589350288~acl=/hls-p/ingest_geo_6747_*/*~hmac=8744c2c931265c11febeba7a55a6988be4771332b610a2a186dd7ac3a739ec83/hls-p/ingest_geo_6747_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363210~acl=/hls-p/ingest_geo_6747_*/*~hmac=321833c4ec493ad617d3cb2fb57722e04b1bd7df1b1482743eef635ef061ee3c/hls-p/ingest_geo_6747_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/da-vinci-ef222f.png" group-title="VIDIO channel",Da Vinci
-https://etslive-2-vidio-com.akamaized.net/exp=1589350292~acl=/hls-p/ingest_geo_6549_*/*~hmac=e04897ab032188984415b74f6bec0a4fecd5026f9a2d6ffe7eb583c15a7d11ee/hls-p/ingest_geo_6549_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363239~acl=/hls-p/ingest_geo_6549_*/*~hmac=1478ae8726cdb96efe6c053f2a30a4eb8968f3047f160489f4e97f08b103cfba/hls-p/ingest_geo_6549_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/horee-5c45d3.png" group-title="VIDIO channel",Horee
-https://etslive-2-vidio-com.akamaized.net/exp=1589350292~acl=/hls-p/ingest_geo_6397_*/*~hmac=72349f539bee40bc1d2f55322a426b6934755b1704664d8b550584f1dc0d4a88/hls-p/ingest_geo_6397_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363239~acl=/hls-p/ingest_geo_6397_*/*~hmac=dce7636b8dc625878454f59e1026aa9a6f3d53bd0659aa217f70e1772db2fd2a/hls-p/ingest_geo_6397_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/zoomoo-7fdb7d.png" group-title="VIDIO channel",ZooMoo
-https://etslive-2-vidio-com.akamaized.net/exp=1589350288~acl=/hls-b/ingest_geo_6533_*/*~hmac=cb0b1bcd91702aa0ef0de45035f13ececf29c92773234e1ed3d5d53d718b4fc2/hls-b/ingest_geo_6533_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363203~acl=/hls-p/ingest_geo_6533_*/*~hmac=d9b254b0009aec2ca31efd1e6887fdf09d16695b0cdd8d21ab9c351a85937196/hls-p/ingest_geo_6533_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/mola-sports-free-df7ba6.png" group-title="VIDIO channel",MOLA SPORT
-https://etslive-2-vidio-com.akamaized.net/exp=1589350298~acl=/hls-p/ingest_geo_6840_*/*~hmac=2958041b48385f7f5961e59c677795335706a87d855fb88329c9869cb2e87a70/hls-p/ingest_geo_6840_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363243~acl=/hls-p/ingest_geo_6840_*/*~hmac=ea76e350e7d3df1d0d0d772bfb8295926a4b536d19f7649039571d01ad11590c/hls-p/ingest_geo_6840_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/bein-1-184dc1.png" group-title="VIDIO channel",Bein 1
 
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/bein-2-a45b25.png" group-title="VIDIO channel",Bein 2
 
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/champions-tv-1-cd5af1.png" group-title="VIDIO channel",Champion 1 Tv
-https://etslive-2-vidio-com.akamaized.net/exp=1589350270~acl=/hls-b/ingest_geo_6685_*/*~hmac=0bca4c05a2963417e83bf07123dd4fe368d6a11cb7152973c682d82e69eccdad/hls-b/ingest_geo_6685_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363181~acl=/hls-p/ingest_geo_6685_*/*~hmac=e85d98c239d6a9df7bc3e07bb707fbf93cc24c67aebcd926d7af67cd35ed4979/hls-p/ingest_geo_6685_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/champions-tv-2-e0b0b4.png" group-title="VIDIO channel",Champion 2 Tv
-https://etslive-2-vidio-com.akamaized.net/exp=1589350287~acl=/hls-p/ingest_geo_6686_*/*~hmac=6185fa60d5dcca2e23c7740f9f711360ac8539a29b210c094fc81125d40d2da6/hls-p/ingest_geo_6686_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363180~acl=/hls-p/ingest_geo_6686_*/*~hmac=21351b83fff2719de7eedab6dfd7f0f365e6cd871c80dd57332d6343ea7aa9fa/hls-p/ingest_geo_6686_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/champions-tv-3-952d29.png" group-title="VIDIO channel",Champion 3 Tv
-https://etslive-2-vidio-com.akamaized.net/exp=1589350292~acl=/hls-p/ingest_geo_6786_*/*~hmac=649fa21ad401a7e30c90237a4cbaf2d477aafda44a4899a716eb9da99c05c197/hls-p/ingest_geo_6786_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1589363210~acl=/hls-p/ingest_geo_6786_*/*~hmac=716aec72a94eafdb7d2073574e2906fa5faf1b1eee466dd16925e3592bcc2a88/hls-p/ingest_geo_6786_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/nba-tv-646502.png" group-title="VIDIO channel",NBA LIVE
