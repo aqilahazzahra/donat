@@ -1,63 +1,63 @@
-#EXTINF:-1 tvg-logo="https://imgur.com/6jYpXXM.png" group-title="Movies",Citra Bioskop
+#EXTINF:-1 tvg-logo="https://imgur.com/6jYpXXM.png" group-title="VIDIO channel",Citra Bioskop
 https://etslive-2-vidio-com.akamaized.net/exp=1589646552~acl=/hls-p/ingest_geo_6684_*/*~hmac=e45215834e146650d77cdf8de4402dcac6eebd009dd6d80ab2cbbea693f5f556/hls-p/ingest_geo_6684_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZvfEAlE.png" group-title="Religi",Citra Muslim
+#EXTINF:-1 tvg-logo="https://imgur.com/ZvfEAlE.png" group-title="VIDIO channel",Citra Muslim
 https://etslive-2-vidio-com.akamaized.net/exp=1589646622~acl=/hls-p/ingest_6678_*/*~hmac=e0ff78e0392464f7fd2a318c469a465b4f5c0376849170e9c6c5c4ee18e69212/hls-p/ingest_6678_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LCWbR6k.png" group-title="Music",Citra Dangdut
+#EXTINF:-1 tvg-logo="https://imgur.com/LCWbR6k.png" group-title="VIDIO channel",Citra Dangdut
 https://etslive-2-vidio-com.akamaized.net/exp=1589646650~acl=/hls-p/ingest_6587_*/*~hmac=118d1e57babaf7136db65867b6f89b78a87b3487be7002622f358203c572d20b/hls-p/ingest_6587_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ymUxHxP.png" group-title="Movies",Citra Drama
+#EXTINF:-1 tvg-logo="https://imgur.com/ymUxHxP.png" group-title="VIDIO channel",Citra Drama
 https://etslive-2-vidio-com.akamaized.net/exp=1589646675~acl=/hls-p/ingest_6401_*/*~hmac=b47d80f0912b4b007e70cc0270022ca07ca8053cf94afd7c35b577a66172fc2b/hls-p/ingest_6401_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/l1XDzZL.png" group-title="Entertainment",Citra Entertainment
+#EXTINF:-1 tvg-logo="https://imgur.com/l1XDzZL.png" group-title="VIDIO channel",Citra Entertainment
 https://etslive-2-vidio-com.akamaized.net/exp=1589646731~acl=/hls-b/ingest_6402_*/*~hmac=cc3bcd9070b4787941649f83a62e8ef6c6a07a23ecad6f0dacf12c8221c5770d/hls-b/ingest_6402_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uE3FNac.png" group-title="Knowledge",MYTV
+#EXTINF:-1 tvg-logo="https://imgur.com/uE3FNac.png" group-title="VIDIO channel",MYTV
 https://etslive-2-vidio-com.akamaized.net/exp=1589646761~acl=/hls-p/ingest_6711_*/*~hmac=b051269f36c899f131f662c5866ca3479129fbc13833dfc59a348089e8c9c2f1/hls-p/ingest_6711_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bXbCFK4.png" group-title="Knowledge",Tv Edukasi
+#EXTINF:-1 tvg-logo="https://imgur.com/bXbCFK4.png" group-title="VIDIO channel",Tv Edukasi
 https://etslive-2-vidio-com.akamaized.net/exp=1589646808~acl=/hls-p/ingest_6838_*/*~hmac=c28f4ce20681263873e99a9c9cb107d77a1f3f00a2ca0968296c55f58aa51c99/hls-p/ingest_6838_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HB9jq0z.png" group-title="Religi",U Channel Tv
+#EXTINF:-1 tvg-logo="https://imgur.com/HB9jq0z.png" group-title="VIDIO channel",U Channel Tv
 https://etslive-2-vidio-com.akamaized.net/exp=1589646848~acl=/hls-p/ingest_6898_*/*~hmac=1144d5b8731fb892ac6e1f3daa4c52fa82a0a0d6f03afa1af4f117bec6233e39/hls-p/ingest_6898_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cfAmQAx.png" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-logo="https://imgur.com/cfAmQAx.png" group-title="VIDIO channel",Al Jazeera
 https://etslive-2-vidio-com.akamaized.net/exp=1589646884~acl=/hls-p/ingest_geo_6410_*/*~hmac=b780831c8e20d7e48ada1f191f21801cbaacb5f3b3f8e14fb4fb08baa416db72/hls-p/ingest_geo_6410_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4WMh8cR.png" group-title="Religi",Al Kareem Tv
+#EXTINF:-1 tvg-logo="https://imgur.com/4WMh8cR.png" group-title="VIDIO channel",Al Kareem Tv
 https://etslive-2-vidio-com.akamaized.net/exp=1589646902~acl=/hls-p/ingest_6852_*/*~hmac=91889e73cf3fe3e04aba17f22f44fd42bc1f4642c51841e68501b85d742ccf1d/hls-p/ingest_6852_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/lZXaRVD.png" group-title="Entertainment",Arirang
+#EXTINF:-1 tvg-logo="https://imgur.com/lZXaRVD.png" group-title="VIDIO channel",Arirang
 https://etslive-2-vidio-com.akamaized.net/exp=1589646922~acl=/hls-p/ingest_geo_6784_*/*~hmac=bc8460b1596c438a2dd663c3348fe79ee2311f45bf9d2d7046aeffca06edc6c6/hls-p/ingest_geo_6784_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/p99fysh.png" group-title="News",CNA
+#EXTINF:-1 tvg-logo="https://imgur.com/p99fysh.png" group-title="VIDIO channel",CNA
 https://etslive-2-vidio-com.akamaized.net/exp=1589646955~acl=/hls-p/ingest_geo_6411_*/*~hmac=9bcc9f0fee4939c7ba0977955c5a99ef0f3d814d598628d7a6d57ed488188f61/hls-p/ingest_geo_6411_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JOJR6BD.png" group-title="News",DW English
+#EXTINF:-1 tvg-logo="https://imgur.com/JOJR6BD.png" group-title="VIDIO channel",DW English
 https://etslive-2-vidio-com.akamaized.net/exp=1589646984~acl=/hls-p/ingest_5075_*/*~hmac=f80ac3c3c79b6020a0fb957fa98075ffcd429a0ca12abb8d7b3e563a92b0ecdc/hls-p/ingest_5075_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YoOOJMv.png" group-title="News",Euro news
+#EXTINF:-1 tvg-logo="https://imgur.com/YoOOJMv.png" group-title="VIDIO channel",Euro news
 https://etslive-2-vidio-com.akamaized.net/exp=1589647013~acl=/hls-p/ingest_geo_6412_*/*~hmac=f7dcb2d92ea0d3fea1749a8f882b7b1fd04bb1e027af2c4f4a46cfb6aeccf222/hls-p/ingest_geo_6412_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pDSsELa.png" group-title="Entertainment",Fashion TV Original
+#EXTINF:-1 tvg-logo="https://imgur.com/pDSsELa.png" group-title="VIDIO channel",Fashion TV Original
 https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vNVbfJk.png" group-title="Entertainment",Fashion Tv Midnight
+#EXTINF:-1 tvg-logo="https://imgur.com/vNVbfJk.png" group-title="VIDIO channel",Fashion Tv Midnight
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OpJOVok.png" group-title="Knowledge",Love Nature
+#EXTINF:-1 tvg-logo="https://imgur.com/OpJOVok.png" group-title="VIDIO channel",Love Nature
 https://etslive-2-vidio-com.akamaized.net/exp=1589647042~acl=/hls-p/ingest_geo_6635_*/*~hmac=a6329ef966b20233ae0c16c025934ff6406e111615ff47cc99d83bd00120b20e/hls-p/ingest_geo_6635_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KRj5IwP.png" group-title="Religi",Reformed 21
+#EXTINF:-1 tvg-logo="https://imgur.com/KRj5IwP.png" group-title="VIDIO channel",Reformed 21
 https://etslive-2-vidio-com.akamaized.net/exp=1589647061~acl=/hls-p/ingest_6853_*/*~hmac=bc813472d1bab56f84c22eeaa8c4c40dc6026c4b5658215a1e25c42e301e6ba6/hls-p/ingest_6853_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ijvwMrk.png" group-title="Knowledge",Smith Sonian
+#EXTINF:-1 tvg-logo="https://imgur.com/ijvwMrk.png" group-title="VIDIO channel",Smith Sonian
 https://etslive-2-vidio-com.akamaized.net/exp=1589647081~acl=/hls-p/ingest_geo_6550_*/*~hmac=e7616f514bbdcd46a417cee46ef9be79cbdbb26c1585cb6e115f4c428475cd4d/hls-p/ingest_geo_6550_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rbT7C6p.png" group-title="Entertainment",TVN
+#EXTINF:-1 tvg-logo="https://imgur.com/rbT7C6p.png" group-title="VIDIO channel",TVN
 https://etslive-2-vidio-com.akamaized.net/exp=1589647101~acl=/hls-b/ingest_geo_6362_*/*~hmac=6af6b80762423ed68ac9d105eaa2a597a65089d6151f06097d4332774f45f615/hls-b/ingest_geo_6362_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7n8tXoD.png" group-title="Movies",Zee Bioskop
+#EXTINF:-1 tvg-logo="https://imgur.com/7n8tXoD.png" group-title="VIDIO channel",Zee Bioskop
 https://etslive-2-vidio-com.akamaized.net/exp=1589647124~acl=/hls-p/ingest_geo_6399_*/*~hmac=136182d0be2c6b7317b7d94fb0f8ab612af394d72812a2ac84ccb0626de72cbf/hls-p/ingest_geo_6399_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FM593je.png" group-title="Music",Zing
+#EXTINF:-1 tvg-logo="https://imgur.com/FM593je.png" group-title="VIDIO channel",Zing
 https://etslive-2-vidio-com.akamaized.net/exp=1589647147~acl=/hls-b/ingest_geo_6747_*/*~hmac=a4fcd087aa66c27381324dd2276dbeab7b5edbdd03c2905177d499abbe650b28/hls-b/ingest_geo_6747_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gZ6Mjhp.png" group-title="Knowledge",Da Vinci
+#EXTINF:-1 tvg-logo="https://imgur.com/gZ6Mjhp.png" group-title="VIDIO channel",Da Vinci
 https://etslive-2-vidio-com.akamaized.net/exp=1589647172~acl=/hls-p/ingest_geo_6549_*/*~hmac=aeec72730598fd917af619f065821402216f6121db7447c36b28686fe2a5b5f4/hls-p/ingest_geo_6549_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/g12Nc6n.png" group-title="Kids",Horee
+#EXTINF:-1 tvg-logo="https://imgur.com/g12Nc6n.png" group-title="VIDIO channel",Horee
 https://etslive-2-vidio-com.akamaized.net/exp=1589647193~acl=/hls-b/ingest_geo_6397_*/*~hmac=c03caac60647595a0bc3c751bcf7d202c564eaff7367cb89329f8c908cc55856/hls-b/ingest_geo_6397_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/drvZftT.png" group-title="Kids",ZooMoo
+#EXTINF:-1 tvg-logo="https://imgur.com/drvZftT.png" group-title="VIDIO channel",ZooMoo
 https://etslive-2-vidio-com.akamaized.net/exp=1589647208~acl=/hls-p/ingest_geo_6533_*/*~hmac=22be77a16d0355d3fffa71784bf0b528bbaced2c053fd21f61feb4016e7203ec/hls-p/ingest_geo_6533_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OD8lqZ6.png" group-title="Sports",MOLA SPORT
+#EXTINF:-1 tvg-logo="https://imgur.com/OD8lqZ6.png" group-title="VIDIO channel",MOLA SPORT
 https://etslive-2-vidio-com.akamaized.net/exp=1589647238~acl=/hls-p/ingest_geo_6840_*/*~hmac=66903b377737ac8111f0841d8b16f860a86308d9bf1b6a194995a9b864366c05/hls-p/ingest_geo_6840_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/bein-1-184dc1.png" group-title="VIDIO channel",Bein 1
 
 #EXTINF:-1 tvg-logo="https://nandazhafira.000webhostapp.com/logo/bein-2-a45b25.png" group-title="VIDIO channel",Bein 2
 
-#EXTINF:-1 tvg-logo="https://imgur.com/u0UBXSd.png" group-title="Sports",Champion 1 Tv
+#EXTINF:-1 tvg-logo="https://imgur.com/u0UBXSd.png" group-title="VIDIO channel",Champion 1 Tv
 https://etslive-2-vidio-com.akamaized.net/exp=1589647261~acl=/hls-p/ingest_geo_6685_*/*~hmac=4e2e47d13c8311fc667cf290fcb18cebfd5c6d43a94b864a1d3ab6e030d821e0/hls-p/ingest_geo_6685_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/K6rI1wy.png" group-title="Sports",Champion 2 Tv
+#EXTINF:-1 tvg-logo="https://imgur.com/K6rI1wy.png" group-title="VIDIO channel",Champion 2 Tv
 https://etslive-2-vidio-com.akamaized.net/exp=1589647283~acl=/hls-p/ingest_geo_6686_*/*~hmac=ce553a5f8dc54b387960df07603206af166bb89fd7536e89b01884eebe5643a1/hls-p/ingest_geo_6686_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZYWGbcq.png" group-title="Sports",Champion 3 Tv
+#EXTINF:-1 tvg-logo="https://imgur.com/npeICYP.png" group-title="VIDIO channel",Champion 3 Tv
 https://etslive-2-vidio-com.akamaized.net/exp=1589647307~acl=/hls-p/ingest_geo_6786_*/*~hmac=d7ea8fec345cf339d47d49e1e8502d5d6518e321c71e84a6d9c4ba5d05c2547b/hls-p/ingest_geo_6786_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NBadclS.png" group-title="VIDIO channel",NBA LIVE
