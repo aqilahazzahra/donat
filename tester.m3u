@@ -1,3 +1,4 @@
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="movies",malena
 http://192.168.26.87:8096/emby/Items/7/Download?api_key=d17f267c10744e9b9aff81bff8266f03
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/DfxNN2ww/premium-png.png" group-title="movies",malena ip public
+http://203.174.13.115:8096/emby/Items/7/Download?api_key=4d962d5508324d9d8371ca8bd0a64457
